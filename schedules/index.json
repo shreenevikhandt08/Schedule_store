@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-13T06:24:46.208Z",
+  "updatedAt": "2026-08-13T06:36:58.410Z",
   "entries": [
+    {
+      "id": "6a7d660a41aa17b441a8cb85",
+      "memberName": "Lochana",
+      "department": "it",
+      "year": "2",
+      "semester": "3",
+      "campus": "sns college of technology",
+      "path": "schedules/it/lochana/year-2-sem-3.json",
+      "folder": "schedules/it/lochana",
+      "fingerprint": "f80d2fc1a6b97713772f93ed2e45",
+      "rowCount": 175,
+      "updatedAt": "2026-08-13T06:36:58.410Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/it/lochana/year-2-sem-3.json"
+    },
     {
       "id": "6a7d632b934a214861aa5cf0",
       "title": "shalu",
@@ -29,5 +43,6 @@
       "updatedAt": "2026-08-13T05:59:38.225Z",
       "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/sns-college-of-technology/cse/y4-sem7-6a7c42509d21c7105be6a530.json"
     }
-  ]
+  ],
+  "schemaVersion": 1
 }
