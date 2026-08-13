@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-13T05:59:38.225Z",
+  "updatedAt": "2026-08-13T06:24:46.208Z",
   "entries": [
+    {
+      "id": "6a7d632b934a214861aa5cf0",
+      "title": "shalu",
+      "path": "schedules/sns-college-of-technology/ai-ds/y3-sem5-6a7d632b934a214861aa5cf0.json",
+      "campus": "sns college of technology",
+      "department": "ai & ds",
+      "year": "3",
+      "semester": "5",
+      "mode": "dsa_dt_playbook",
+      "numDays": 12,
+      "fingerprint": "9ba333fada65f7b33d5f7be65e0e",
+      "updatedAt": "2026-08-13T06:24:46.208Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/sns-college-of-technology/ai-ds/y3-sem5-6a7d632b934a214861aa5cf0.json"
+    },
     {
       "id": "6a7c42509d21c7105be6a530",
       "title": "sns college of technology · cse · 12 days",
