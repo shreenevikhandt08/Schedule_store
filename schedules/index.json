@@ -1,19 +1,29 @@
 {
-  "updatedAt": "2026-08-18T12:13:54.778Z",
+  "updatedAt": "2026-08-18T12:28:30.624Z",
   "entries": [
     {
       "id": "6a8286111c47e1571a988a55",
-      "memberName": "Shreenevikha",
+      "memberName": "Lochana",
+      "memberKey": "lochana",
       "department": "cse",
       "year": "3",
       "semester": "5",
       "campus": "sns college of technology",
-      "path": "schedules/cse/shreenevikha/year-3-sem-5.json",
-      "folder": "schedules/cse/shreenevikha",
+      "path": "schedules/cse/lochana/year-3-sem-5.json",
+      "folder": "schedules/cse/lochana",
       "fingerprint": "7a6d4891cc1df1afd5f1ad94608b",
       "rowCount": 175,
-      "updatedAt": "2026-08-18T12:13:54.778Z",
-      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/shreenevikha/year-3-sem-5.json"
+      "weeklyRowCount": 3,
+      "homeworkRowCount": 12,
+      "versionCount": 1,
+      "includes": {
+        "daily": true,
+        "weekly": true,
+        "homework": true,
+        "versions": true
+      },
+      "updatedAt": "2026-08-18T12:28:30.624Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/lochana/year-3-sem-5.json"
     },
     {
       "id": "6a83fb5f08e43c4670710575",
@@ -72,5 +82,5 @@
       "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/sns-college-of-technology/cse/y4-sem7-6a7c42509d21c7105be6a530.json"
     }
   ],
-  "schemaVersion": 1
+  "schemaVersion": 2
 }
