@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-18T10:23:50.578Z",
+  "updatedAt": "2026-08-18T12:13:38.799Z",
   "entries": [
+    {
+      "id": "6a8286111c47e1571a988a55",
+      "memberName": "Shreenevikha",
+      "department": "cse",
+      "year": "3",
+      "semester": "5",
+      "campus": "sns college of technology",
+      "path": "schedules/cse/shreenevikha/year-3-sem-5.json",
+      "folder": "schedules/cse/shreenevikha",
+      "fingerprint": "7a6d4891cc1df1afd5f1ad94608b",
+      "rowCount": 175,
+      "updatedAt": "2026-08-18T12:13:38.799Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/shreenevikha/year-3-sem-5.json"
+    },
     {
       "id": "6a83fb5f08e43c4670710575",
       "memberName": "Arjun",
@@ -14,20 +28,6 @@
       "rowCount": 175,
       "updatedAt": "2026-08-18T10:23:50.578Z",
       "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/arjun/year-4-sem-7.json"
-    },
-    {
-      "id": "6a8286111c47e1571a988a55",
-      "memberName": "Rithick",
-      "department": "cse",
-      "year": "3",
-      "semester": "5",
-      "campus": "sns college of technology",
-      "path": "schedules/cse/rithick/year-3-sem-5.json",
-      "folder": "schedules/cse/rithick",
-      "fingerprint": "7a6d4891cc1df1afd5f1ad94608b",
-      "rowCount": 175,
-      "updatedAt": "2026-08-17T03:55:12.939Z",
-      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/rithick/year-3-sem-5.json"
     },
     {
       "id": "6a7d660a41aa17b441a8cb85",
