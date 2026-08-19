@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-18T12:28:51.788Z",
+  "updatedAt": "2026-08-19T07:11:00.759Z",
   "entries": [
     {
       "id": "6a8286111c47e1571a988a55",
-      "memberName": "Lochana",
-      "memberKey": "lochana",
+      "memberName": "Shreenevikha",
+      "memberKey": "shree22-gmail-com",
       "department": "cse",
       "year": "3",
       "semester": "5",
       "campus": "sns college of technology",
-      "path": "schedules/cse/lochana/year-3-sem-5.json",
-      "folder": "schedules/cse/lochana",
+      "path": "schedules/cse/shreenevikha/year-3-sem-5.json",
+      "folder": "schedules/cse/shreenevikha",
       "fingerprint": "7a6d4891cc1df1afd5f1ad94608b",
-      "rowCount": 175,
+      "rowCount": 179,
       "weeklyRowCount": 3,
       "homeworkRowCount": 12,
-      "versionCount": 1,
+      "versionCount": 2,
       "includes": {
         "daily": true,
         "weekly": true,
         "homework": true,
         "versions": true
       },
-      "updatedAt": "2026-08-18T12:28:51.788Z",
-      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/lochana/year-3-sem-5.json"
+      "updatedAt": "2026-08-19T07:11:00.759Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/shreenevikha/year-3-sem-5.json"
     },
     {
       "id": "6a83fb5f08e43c4670710575",
