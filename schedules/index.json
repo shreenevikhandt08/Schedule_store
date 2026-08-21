@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-19T07:30:18.705Z",
+  "updatedAt": "2026-08-21T07:35:11.624Z",
   "entries": [
+    {
+      "id": "6a87ffafb96600fff3d58b47",
+      "memberName": "Raghav",
+      "memberKey": "ragav22-gmail-com",
+      "department": "cse",
+      "year": "2",
+      "semester": "3",
+      "campus": "sns college of technology",
+      "path": "schedules/cse/raghav/year-2-sem-3.json",
+      "folder": "schedules/cse/raghav",
+      "fingerprint": "7991d97ba1fdec96ad0a247a622b",
+      "rowCount": 172,
+      "weeklyRowCount": 3,
+      "homeworkRowCount": 12,
+      "versionCount": 2,
+      "includes": {
+        "daily": true,
+        "weekly": true,
+        "homework": true,
+        "versions": true
+      },
+      "updatedAt": "2026-08-21T07:35:11.624Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/raghav/year-2-sem-3.json"
+    },
     {
       "id": "6a8286111c47e1571a988a55",
       "memberName": "Shreenevikha",
