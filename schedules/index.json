@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:47:42.032Z",
+  "updatedAt": "2026-09-08T10:49:18.052Z",
   "entries": [
     {
       "id": "6a9fbd9d89b25d8112552701",
@@ -12,17 +12,17 @@
       "path": "schedules/cse/karthi/year-2-sem-3.json",
       "folder": "schedules/cse/karthi",
       "fingerprint": "5f140ace29c993dc1aeed36a8a9c",
-      "rowCount": 167,
+      "rowCount": 170,
       "weeklyRowCount": 3,
       "homeworkRowCount": 12,
-      "versionCount": 0,
+      "versionCount": 1,
       "includes": {
         "daily": true,
         "weekly": true,
         "homework": true,
-        "versions": false
+        "versions": true
       },
-      "updatedAt": "2026-09-08T07:47:42.032Z",
+      "updatedAt": "2026-09-08T10:49:18.052Z",
       "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/karthi/year-2-sem-3.json"
     },
     {
