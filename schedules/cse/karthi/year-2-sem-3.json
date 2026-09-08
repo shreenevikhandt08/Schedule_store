@@ -1,0 +1,1157 @@
+{
+  "schemaVersion": 2,
+  "savedAt": "2026-09-08T07:47:42.032Z",
+  "member": {
+    "name": "Karthi",
+    "key": "karthi22-gmail-com",
+    "department": "cse",
+    "year": "2",
+    "semester": "3",
+    "campus": "sns college of technology"
+  },
+  "meta": {
+    "id": "6a9fbd9d89b25d8112552701",
+    "fingerprint": "5f140ace29c993dc1aeed36a8a9c",
+    "softFingerprint": "8d6a4d7c527f0ad150b90e5359ac",
+    "cohortKey": "sns college of technology|cse|2|3|dsa_dt_playbook|12",
+    "mode": "dsa_dt_playbook",
+    "numDays": 12,
+    "kind": "personal",
+    "visibility": "cohort",
+    "rowCount": 167,
+    "weeklyRowCount": 3,
+    "homeworkRowCount": 12,
+    "versionCount": 0,
+    "includes": {
+      "daily": true,
+      "weekly": true,
+      "homework": true,
+      "versions": false
+    }
+  },
+  "daily": {
+    "module": "daily",
+    "title": "Karthi",
+    "rows": [
+      [
+        "Week 1 - Friday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 5\n▶ Purpose: set today's aim for \"Tech Stack Suggestions\" before class work starts.\n▶ DT step: Tech Stack Suggestions\n▶ Write: what still felt fuzzy yesterday · smallest win for today · STUCK\n▶ Motivation: \"Small notes today become tomorrow's architecture.\""
+      ],
+      [
+        "Week 1 - Friday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Tech Stack Suggestions\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"Tech Stack Suggestions\" and Project.\n▶ Do: Read the problem + DT Playbook page 17. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: you can say the problem in one sentence: Choose beginner-friendly tools for this problem."
+      ],
+      [
+        "Week 1 - Friday",
+        "9:35 AM – 10:05 AM IST",
+        "System Design",
+        "▶ Heading: Technology Choices & Constraints\n▶ DT Playbook Step today: Tech Stack Suggestions\n▶ Why this connects: Stack suggestions are early system design decisions: language, UI, and storage for this problem.\n▶ Transition: You have finished \"Data Storage Solutions\". Today we move to \"Technology Choices & Constraints\" because Stack suggestions are early system design decisions: language, UI, and storage for this problem..\n▶ Today's lesson: Technology Choices & Constraints\n▶ What to learn: Learn about techniques for capturing images using drones and smartphones.\n▶ In plain words: Quality images are crucial for accurate analysis.\n▶ Apply to your problem: In notes/system-design.md under Day 5, write where \"Technology Choices & Constraints\" shows up in \"Create a simple program that simulates capturing and storing image\" (2 bullets).\n▶ Read / watch:\n   Include potential challenges and solutions in your notes.\n▶ Do now: Outline the image acquisition process for your system.\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “Image Acquisition” (YouTube search) — https://www.youtube.com/results?search_query=Image%20Acquisition\n▶ Done when: notes/system-design.md has a heading for Day 5 AND includes 2 bullets linking \"Technology Choices & Constraints\" to your project."
+      ],
+      [
+        "Week 1 - Friday",
+        "10:05 AM – 10:45 AM IST",
+        "Learning",
+        "▶ Concept: Image Acquisition\n▶ Why: You need \"Tech Stack Suggestions\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Image Acquisition\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “Tech Stack Suggestions” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): Stacks (arrays + linked list) — Tamil DSA (Tamil) — https://www.youtube.com/watch?v=ji6cF8OQlkQ"
+      ],
+      [
+        "Week 1 - Friday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Friday",
+        "10:55 AM – 11:35 AM IST",
+        "Problem Lab",
+        "▶ Concept: Tech Stack Suggestions — write the problem answers\n▶ Purpose: so Project Build has a clear, written problem (not guesses).\n▶ Connect: Learning \"Tech Stack Suggestions\" + this write-up → Project.\n▶ Do: Open DT Playbook page 17 and write answers in your own words (short, complete).\n▶ Docs: update PRD (problem, users, needs). SAD not yet. Copy today's answers into the PRD.\n▶ Outcome: DT Playbook page 17 is filled and the problem piece is clear."
+      ],
+      [
+        "Week 1 - Friday",
+        "11:35 AM – 11:50 AM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Develop Data Storage Plan\" [Technical Planning]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Assess the scalability of the proposed cloud-based storage solution.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Soil Health Monitoring Device (IoT Device)\n   Speak ~90 seconds: Design an IoT device for monitoring soil health.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 1 - Friday",
+        "11:50 AM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: Tech Stack Suggestions\n▶ Why: You need \"Tech Stack Suggestions\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"Tech Stack Suggestions\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Image Acquisition” (GFG search) — for “Tech Stack Suggestions” — https://www.geeksforgeeks.org/?s=Image%20Acquisition\n   · Video (Tamil): Stacks (arrays + linked list) — Tamil DSA (Tamil) — https://www.youtube.com/results?search_query=Image%20Acquisition"
+      ],
+      [
+        "Week 1 - Friday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Friday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement — Day 5: Why company (short) (8–10 min)\n▶ LEARN (interview): Interview tip: “Why this company?” needs a specific reason.\n▶ TASKS (do these 2): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n▶ Task 1: Write 3 lines: why Netflix interests you.\n▶ Task 2: Say them once.\n▶ Done when: Short “Why company” ready."
+      ],
+      [
+        "Week 1 - Friday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: Tech Stack Suggestions — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"Tech Stack Suggestions\" → this build.\n▶ Do: Based on your problem + focus statement, write 2–3 possible stacks (language + UI + storage).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: API Development\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Design RESTful APIs\n   2. Implement API security measures\n▶ Done when: APIs are functional and secure."
+      ],
+      [
+        "Week 1 - Friday",
+        "3:50 PM – 4:05 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Friday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: End of Week 1 review\n▶ 1) What I shipped this week (list actual outputs/files)\n▶ 2) What is incomplete and why\n▶ 3) One thing I would do differently next week\n▶ 4) Preview of Week 2 goals\n▶ Done when: weekly-review-w1.md has all 4 sections filled.\n▶ Heading: Close Day 5 — outcome check\n▶ Purpose today: use \"Tech Stack Suggestions\" to advance \"Stack ideas now — final confirm when coding starts — for: \"Farmers face significant challenges in\".\n▶ Spotlight outcome: Logical & Business skill\n▶ 1) LEARNED: If a friend asked about \"Tech Stack Suggestions\", what 2 sentences would you say?\n▶ 2) FINISHED: Which Project Build checklist item is actually done?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Empathy Map\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 1 - Friday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Practice Problems & Review” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #35 — Search Insert Position\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 1 publish — article on \"Tech Stack Suggestions\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Post from notes/linkedin-w1.md (or write fresh 8–12 lines). First line must mention what you are building for \"Farmers face significant challenges in identifying crop diseases\". Leave 1 real comment on a peer post.\nDone when: article is live, URL saved, and you left 1 comment.\nCase study\nFor Monday Speak & Solve — Week 2\nCase: Implement Image Processing Module [Development]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day6.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Monday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Day 1 personal kickoff\n▶ Purpose: set today's aim for \"Problem Identification\" before class work starts.\n▶ DT step: Problem Identification\n▶ Write: TODAY aim · one thing you want to understand by evening · STUCK (or \"none\")\n▶ Motivation: \"Start with clarity: one problem sentence beats ten vague goals.\""
+      ],
+      [
+        "Week 1 - Monday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Problem Identification\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"Problem Identification\" and Project.\n▶ Do: Read the problem + DT Playbook page 8. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields."
+      ],
+      [
+        "Week 1 - Monday",
+        "9:35 AM – 10:05 AM IST",
+        "System Design",
+        "▶ Heading: System Design overview — start here after reading today's problem\n▶ DT Playbook Step today: Problem Identification\n▶ Why this connects: Both start by clarifying who is affected, what fails today, and what 'done' means before designing components.\n▶ Today's lesson: Requirements & Problem Framing\n▶ What to learn: Understand the basic components of system design: Client, API, and Data Store.\n▶ In plain words: Every system starts with these three components.\n▶ Apply to your problem: In notes/system-design.md write how \"Create a simple program that simulates capturing and storing image\" fits Client → Logic → Store (3 labeled boxes).\n▶ Read / watch:\n   Expand on the roles of each component in your notes.\n▶ Do now: Create a simple diagram showing the Client, API, and Data Store for the crop health monitoring system.\n▶ Extra hint from your System Design notes: To build a real-time crop health monitoring system, the design should include the following components: 1. **Image Acquisition**: Use\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “Image Acquisition” (YouTube search) — https://www.youtube.com/results?search_query=Image%20Acquisition\n▶ Done when: notes/system-design.md exists with a Day 1 heading AND 3 labeled boxes (Client / Logic / Store) for your problem."
+      ],
+      [
+        "Week 1 - Monday",
+        "10:05 AM – 10:45 AM IST",
+        "Learning",
+        "▶ Concept: Image Acquisition\n▶ Why: You need \"Problem Identification\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Image Acquisition\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: Wikipedia — Design thinking — for “Problem Identification” — https://en.wikipedia.org/wiki/Design_thinking\n   · Video (Tamil): Stacks — Tamil DSA (Tamil) — https://www.youtube.com/watch?v=ji6cF8OQlkQ"
+      ],
+      [
+        "Week 1 - Monday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Monday",
+        "10:55 AM – 11:35 AM IST",
+        "Problem Lab",
+        "▶ Concept: Problem Identification — write the problem answers\n▶ Purpose: so Project Build has a clear, written problem (not guesses).\n▶ Connect: Learning \"Problem Identification\" + this write-up → Project.\n▶ Do: Open DT Playbook page 8 and write answers in your own words (short, complete).\n▶ Docs: update PRD (problem, users, needs). SAD not yet. Copy today's answers into the PRD.\n▶ Outcome: DT Playbook page 8 is filled and the problem piece is clear."
+      ],
+      [
+        "Week 1 - Monday",
+        "11:35 AM – 11:50 AM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ 1) Practice question (Product thinking)\n   Question: Estimate the time required for training the AI model on crop images.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: AI Training Dataset (Dataset)\n   Speak ~90 seconds: Compile a dataset for training AI models in agriculture.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 1 - Monday",
+        "11:50 AM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: Problem Identification\n▶ Why: You need \"Problem Identification\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"Problem Identification\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Image Acquisition” (GFG search) — Design thinking — for “Problem Identification” — https://www.geeksforgeeks.org/?s=Image%20Acquisition\n   · Video (Tamil): Stacks — Tamil DSA (Tamil) — https://www.youtube.com/results?search_query=Image%20Acquisition"
+      ],
+      [
+        "Week 1 - Monday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Monday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement — Day 1: 60-sec intro line (8–10 min)\n▶ LEARN (interview): Interview tip: keep a 1-line intro ready — name, course, focus.\n▶ TASKS (do these 2): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n▶ Task 1: Write 1 intro line: “I am Image Acquisition, learning Image Acquisition, interested in Netflix.”\n▶ Task 2: Say it out loud once.\n▶ Done when: Intro line ready."
+      ],
+      [
+        "Week 1 - Monday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: Problem Identification — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"Problem Identification\" → this build.\n▶ Do: Take your assigned Problem Statement.\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Image Acquisition\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Select appropriate drones/smartphones\n   2. Develop image capture protocols\n▶ Done when: Images are consistently captured and stored."
+      ],
+      [
+        "Week 1 - Monday",
+        "3:50 PM – 4:05 PM IST",
+        "Refresh Game",
+        "▶ Refresh (optional)\n▶ Pick ONE: game, short case chat, or rest. No new homework.\n▶ Option A — Game: Hollywood (Tech Edition) (10 min)\n   One student thinks of a tech product/movie title. Others ask YES/NO questions only (max 12). Guess the title. Losing team does a 20-sec victory dance for the winners.\n▶ Option B — Case: The Future of Food Security: Technology's Role → 1 insight for \"Farmers face significant challenges in identifying crop diseases early, leading to\"\n▶ Option C — Rest: water, stretch, quiet sit."
+      ],
+      [
+        "Week 1 - Monday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Day 1 close — set the outcome bar\n▶ Today's purpose: start \"Problem Identification\" so you can move \"Understanding image acquisition is crucial for developing a real-time crop health monitoring system\" tomorrow.\n▶ Spotlight outcome: Attitude — Curiosity & Accountability\n▶ 1) LEARNED: One idea about \"Problem Identification\" you can explain now.\n▶ 2) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 3) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 4) TOMORROW: Start with \"Similar Products\" — reopen today's notes first.\n▶ Done when: all 4 answers are in your notebook."
+      ],
+      [
+        "Week 1 - Monday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Introduction & Theory” / pattern “Array”) on YOUR project — not a random puzzle.\nProblem: #26 — Remove Duplicates from Sorted Array (Easy)\nLink: https://leetcode.com/problems/remove-duplicates-from-sorted-array/\nBuilds on Coding Practice #26 — Remove Duplicates from Sorted Array\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one list/field in \"Farmers face significant challenges in identifying crop\" where this search/filter helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nDefine Project Scope (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Outline the objectives and deliverables of the crop health monitoring system.\nWhat to build: Outline the objectives and deliverables of the crop health monitoring system.\nStep 1: Identify key stakeholders\nStep 2: Gather requirements\nStep 3: Document project scope\nDone when: Project scope is approved by stakeholders.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Tuesday Speak & Solve — Week 1\nCase: Impact of Climate Change on Crop Health [Climate Change]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day2.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Thursday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 4\n▶ Purpose: set today's aim for \"Focus\" before class work starts.\n▶ DT step: Focus\n▶ Write: DONE yesterday · TODAY on \"Focus\" · STUCK (or \"none\")\n▶ Motivation: \"If you can teach today's idea in 4 lines, you own it.\""
+      ],
+      [
+        "Week 1 - Thursday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Focus\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"Focus\" and Project.\n▶ Do: Read the problem + DT Playbook page 16. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields."
+      ],
+      [
+        "Week 1 - Thursday",
+        "9:35 AM – 10:05 AM IST",
+        "System Design",
+        "▶ Heading: MVP Scope & Non-Goals\n▶ DT Playbook Step today: Focus\n▶ Why this connects: A focus statement is the system’s MVP boundary — what must ship now vs what stays out of v1.\n▶ Transition: You have finished \"RESTful API Principles\". Today we move to \"MVP Scope & Non-Goals\" because A focus statement is the system’s MVP boundary — what must ship now vs what stays out of v1..\n▶ Today's lesson: MVP Scope & Non-Goals\n▶ What to learn: Explore different data storage solutions, focusing on cloud storage options.\n▶ In plain words: Choose the right storage based on your data needs.\n▶ Apply to your problem: In notes/system-design.md under Day 4, write where \"MVP Scope & Non-Goals\" shows up in \"Create a simple program that simulates capturing and storing image\" (2 bullets).\n▶ Read / watch:\n   Document the reasons for your choice in your notes.\n▶ Do now: Research and select a cloud storage solution for your project (e.g., AWS S3).\n▶ Helpful links:\n   · Website: Cloud Storage Overview — https://aws.amazon.com/s3/\n   · YouTube: Videos for “Image Acquisition” (YouTube search) — https://www.youtube.com/results?search_query=Image%20Acquisition\n▶ Done when: notes/system-design.md has a heading for Day 4 AND includes 2 bullets linking \"MVP Scope & Non-Goals\" to your project."
+      ],
+      [
+        "Week 1 - Thursday",
+        "10:05 AM – 10:45 AM IST",
+        "Learning",
+        "▶ Concept: Image Acquisition\n▶ Why: You need \"Focus\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Image Acquisition\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: Wikipedia — Design thinking — for “Focus” — https://en.wikipedia.org/wiki/Design_thinking\n   · Video (Tamil): Stacks & Queues — DSA (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 1 - Thursday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Thursday",
+        "10:55 AM – 11:35 AM IST",
+        "Problem Lab",
+        "▶ Concept: Focus — write the problem answers\n▶ Purpose: so Project Build has a clear, written problem (not guesses).\n▶ Connect: Learning \"Focus\" + this write-up → Project.\n▶ Do: Open DT Playbook page 16 and write answers in your own words (short, complete).\n▶ Docs: update PRD (problem, users, needs). SAD not yet. Copy today's answers into the PRD.\n▶ Outcome: DT Playbook page 16 is filled and the problem piece is clear."
+      ],
+      [
+        "Week 1 - Thursday",
+        "11:35 AM – 11:50 AM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"The Role of AI in Sustainable Agriculture\" [AI & Sustainability]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Evaluate the data analytics tools available for monitoring crop health trends.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Pest Detection System (AI System)\n   Speak ~90 seconds: Propose a system for detecting pests in crops.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 1 - Thursday",
+        "11:50 AM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: Focus\n▶ Why: You need \"Focus\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"Focus\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Image Acquisition” (GFG search) — Design thinking — for “Focus” — https://www.geeksforgeeks.org/?s=Image%20Acquisition\n   · Video (Tamil): Stacks & Queues — DSA (Tamil) — https://www.youtube.com/results?search_query=Image%20Acquisition"
+      ],
+      [
+        "Week 1 - Thursday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Thursday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement — Day 4: Aptitude 3Q (8–10 min)\n▶ LEARN (interview): Interview tip: tiny daily aptitude beats weekend cramming.\n▶ TASKS (do these 2): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n▶ Task 1: Solve 3 aptitude questions.\n▶ Task 2: Notebook: score / 3.\n▶ Done when: 3Q + score logged."
+      ],
+      [
+        "Week 1 - Thursday",
+        "1:35 PM – 3:25 PM IST",
+        "Project Build",
+        "▶ Concept: Focus — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"Focus\" → this build.\n▶ Do: Write a single-sentence focus statement: '[User] needs a way to [need] because [insight].\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: AI Model Training\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Collect labeled datasets\n   2. Train convolutional neural network\n▶ Done when: AI model achieves desired accuracy."
+      ],
+      [
+        "Week 1 - Thursday",
+        "3:25 PM – 3:40 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Thursday",
+        "3:40 PM – 4:05 PM IST",
+        "Mini Build",
+        "▶ Mini Build — interest + strength + overcome weakness\n▶ Purpose: practise today's spotlight outcome on YOUR problem (not busywork).\n▶ Spotlight outcome: Attitude — Curiosity & Accountability — Ask one honest question, own one promise, finish one small proof.\n▶ Why this matters: builds Attitude, Logic/Business, and Technical skill for \"Farmers face significant challenges in identifying crop diseases early, leading\".\n▶ Interest bridge: use \"Cricket\" as the metaphor or demo style for \"Focus\".\n▶ Subject to reuse: \"Focus\" (same as Learning — do not invent a new topic).\n▶ Curiosity (2 min): write ONE question about \"Focus\" you cannot answer yet.\n▶ Accountability (3 min): promise one deliverable for \"Farmers face significant challenges in identifying crop\" before the day ends — write it at the top of your notes.\n▶ Subject link: connect \"Focus\" → that question in 1 sentence.\n▶ Overcome weakness (tiny step): Growth challenge (long theory): read ONE short section on \"Focus\" (≤1 page / 5 min), then do one practice step.\n▶ Why: future roles need this skill; today we practise a tiny slice only.\n▶ Medium: Tamil OK for thinking aloud; keep key terms in English.\n▶ Related DT Step: Focus\n▶ Done when: mini-build-day4.md has (1) outcome (2) interest link (3) one weakness step result."
+      ],
+      [
+        "Week 1 - Thursday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 4 — outcome check\n▶ Purpose today: use \"Focus\" to advance \"Understanding image acquisition aids in developing a monitoring system for crop health\".\n▶ Spotlight outcome: Attitude — Curiosity & Accountability\n▶ 1) LEARNED: What is still fuzzy about \"Focus\" after today?\n▶ 2) FINISHED: What did you clarify in notes today?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Tech Stack Suggestions\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 1 - Thursday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Edge Cases & Variants” / pattern “Graphs”) on YOUR project — not a random puzzle.\nProblem: #417 — Pacific Atlantic Water Flow (Medium)\nLink: https://leetcode.com/problems/pacific-atlantic-water-flow/\nBuilds on Coding Practice #1466 — Reorder Routes to Make All Paths Lead\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Sketch 4 nodes from \"Farmers face significant challenges in identifying crop\" + 1 edge type — 1 sentence on why search helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nDesign API Specifications (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Draft specifications for the RESTful APIs.\nWhat to build: Draft specifications for the RESTful APIs.\nStep 1: Define API endpoints\nStep 2: Specify data formats\nStep 3: Establish authentication methods\nDone when: API specifications are finalized.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Friday Speak & Solve — Week 1\nCase: Develop Data Storage Plan [Technical Planning]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day5.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 2\n▶ Purpose: set today's aim for \"Similar Products\" before class work starts.\n▶ DT step: Similar Products\n▶ Write: one thing that clicked yesterday · what you will finish today · STUCK\n▶ Motivation: \"Today's job is understanding — not finishing the whole product.\""
+      ],
+      [
+        "Week 1 - Tuesday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Similar Products\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"Similar Products\" and Project.\n▶ Do: Read the problem + DT Playbook page 10. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, affecting yields."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "9:35 AM – 10:05 AM IST",
+        "System Design",
+        "▶ Heading: Competitive Architecture Scan\n▶ DT Playbook Step today: Similar Products\n▶ Why this connects: Studying similar products maps to surveying existing system approaches and spotting gaps your design must fill.\n▶ Transition: You have finished \"System Design Overview\". Today we move to \"Competitive Architecture Scan\" because Studying similar products maps to surveying existing system approaches and spotting gaps your design must fill..\n▶ Today's lesson: Competitive Architecture Scan\n▶ What to learn: Learn what APIs are and how they facilitate communication between the client and server.\n▶ In plain words: APIs are the bridge between different software components.\n▶ Apply to your problem: In notes/system-design.md under Day 2, write where \"Competitive Architecture Scan\" shows up in \"Create a simple program that simulates capturing and storing image\" (2 bullets).\n▶ Read / watch:\n   Include examples of API endpoints you might need.\n▶ Do now: Write a brief description of how your crop health monitoring system will use APIs.\n▶ Helpful links:\n   · Website: Articles for “today's topic alternate” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic%20alternate\n   · YouTube: APIs Explained — https://www.youtube.com/watch?v=s7wmiS2mSXY\n▶ Done when: notes/system-design.md has a heading for Day 2 AND includes 2 bullets linking \"Competitive Architecture Scan\" to your project."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "10:05 AM – 10:45 AM IST",
+        "Learning",
+        "▶ Concept: Image Acquisition\n▶ Why: You need \"Similar Products\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Image Acquisition\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: NN/g — Competitive usability evaluations — for “Similar Products” — https://www.nngroup.com/articles/competitive-usability-evaluations/\n   · Video (Tamil): Arrays — Tamil DSA (Tamil) — https://www.youtube.com/watch?v=ZWK32ZxqzwQ"
+      ],
+      [
+        "Week 1 - Tuesday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "10:55 AM – 11:35 AM IST",
+        "Problem Lab",
+        "▶ Concept: Similar Products — write the problem answers\n▶ Purpose: so Project Build has a clear, written problem (not guesses).\n▶ Connect: Learning \"Similar Products\" + this write-up → Project.\n▶ Do: Open DT Playbook page 10 and write answers in your own words (short, complete).\n▶ Docs: update PRD (problem, users, needs). SAD not yet. Copy today's answers into the PRD.\n▶ Outcome: DT Playbook page 10 is filled and the problem piece is clear."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "11:35 AM – 11:50 AM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Impact of Climate Change on Crop Health\" [Climate Change]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Outline the steps for integrating the image processing module with the data storage solution.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Crop Management Web Portal (Web Application)\n   Speak ~90 seconds: Design a web portal for comprehensive crop management.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 1 - Tuesday",
+        "11:50 AM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: Similar Products\n▶ Why: You need \"Similar Products\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"Similar Products\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Image Acquisition” (GFG search) — Competitive usability evaluations — for “Similar Products” — https://www.geeksforgeeks.org/?s=Image%20Acquisition\n   · Video (Tamil): Arrays — Tamil DSA (Tamil) — https://www.youtube.com/results?search_query=Image%20Acquisition"
+      ],
+      [
+        "Week 1 - Tuesday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement — Day 2: One company fact (8–10 min)\n▶ LEARN (interview): Interview tip: one real fact about the company beats generic praise.\n▶ TASKS (do these 2): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n▶ Task 1: Write 1 recent fact about Netflix.\n▶ Task 2: Notebook: fact + source.\n▶ Done when: 1 company fact logged."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "1:35 PM – 3:25 PM IST",
+        "Project Build",
+        "▶ Concept: Similar Products — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"Similar Products\" → this build.\n▶ Do: Find 2-3 real existing apps/products addressing a similar problem.\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Data Storage\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Set up cloud storage\n   2. Implement data backup solutions\n▶ Done when: Data is securely stored and accessible."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "3:25 PM – 3:40 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "3:40 PM – 4:05 PM IST",
+        "Mini Build",
+        "▶ Mini Build — interest + strength + overcome weakness\n▶ Purpose: practise today's spotlight outcome on YOUR problem (not busywork).\n▶ Spotlight outcome: Logical & Business skill — If-then thinking + who pays / who benefits for today's piece.\n▶ Why this matters: builds Attitude, Logic/Business, and Technical skill for \"Farmers face significant challenges in identifying crop diseases early, leading\".\n▶ Interest bridge: use \"Cricket\" as the metaphor or demo style for \"Similar Products\".\n▶ Subject to reuse: \"Similar Products\" (same as Learning — do not invent a new topic).\n▶ Logic: write 1 if-then rule using \"Similar Products\" for \"Farmers face significant challenges in identifying crop\".\n▶ Business: who benefits if this rule works? who pays the cost if it fails? (2 lines)\n▶ Subject link: use one idea from \"Similar Products\" inside that if-then rule.\n▶ Overcome weakness (tiny step): Growth challenge (long theory): read ONE short section on \"Similar Products\" (≤1 page / 5 min), then do one practice step.\n▶ Why: future roles need this skill; today we practise a tiny slice only.\n▶ Medium: Tamil OK for thinking aloud; keep key terms in English.\n▶ Related DT Step: Similar Products\n▶ Done when: mini-build-day2.md has (1) outcome (2) interest link (3) one weakness step result."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 2 — outcome check\n▶ Purpose today: use \"Similar Products\" to advance \"Understanding image acquisition helps in developing effective crop health monitoring systems\".\n▶ Spotlight outcome: Logical & Business skill\n▶ 1) LEARNED: What mistake did you almost make with \"Similar Products\", and how did you catch it?\n▶ 2) FINISHED: What page shows today's DT Playbook progress?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"My Ideas\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Core Algorithm” / pattern “Linked List”) on YOUR project — not a random puzzle.\nProblem: #21 — Merge Two Sorted Lists (Easy)\nLink: https://leetcode.com/problems/merge-two-sorted-lists/\nBuilds on Coding Practice #141 — Linked List Cycle\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one ordered list in \"Farmers face significant challenges in identifying crop\" (feed/steps) and one insert/delete case.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nCase study\nFor Wednesday Speak & Solve — Week 1\nCase: Using Technology to Combat Food Waste [Food Waste]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day3.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 3\n▶ Purpose: set today's aim for \"My Ideas\" before class work starts.\n▶ DT step: My Ideas\n▶ Write: which notes file you left open · today's research aim · STUCK\n▶ Motivation: \"Write the assumption down. Guessing silently is how projects drift.\""
+      ],
+      [
+        "Week 1 - Wednesday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: My Ideas\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"My Ideas\" and Project.\n▶ Do: Read the problem + DT Playbook page 12. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields and profits."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "9:35 AM – 10:05 AM IST",
+        "System Design",
+        "▶ Heading: Design Alternatives & Trade-offs\n▶ DT Playbook Step today: My Ideas\n▶ Why this connects: Brainstorming ideas mirrors listing architecture options before converging on one approach.\n▶ Transition: You have finished \"Understanding APIs\". Today we move to \"Design Alternatives & Trade-offs\" because Brainstorming ideas mirrors listing architecture options before converging on one approach..\n▶ Today's lesson: Design Alternatives & Trade-offs\n▶ What to learn: Understand the principles of RESTful APIs and their importance in system design.\n▶ In plain words: REST stands for Representational State Transfer.\n▶ Apply to your problem: In notes/system-design.md under Day 3, write where \"Design Alternatives & Trade-offs\" shows up in \"Create a simple program that simulates capturing and storing image\" (2 bullets).\n▶ Read / watch:\n   Explain how each method will be applied in your crop health monitoring system.\n▶ Do now: List the RESTful methods (GET, POST, PUT, DELETE) and their uses in your project.\n▶ Helpful links:\n   · Website: Articles for “today's topic practice” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic%20practice\n   · YouTube: REST API Concepts — https://www.youtube.com/watch?v=7YcW25PHnAA\n▶ Done when: notes/system-design.md has a heading for Day 3 AND includes 2 bullets linking \"Design Alternatives & Trade-offs\" to your project."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "10:05 AM – 10:45 AM IST",
+        "Learning",
+        "▶ Concept: Image Acquisition\n▶ Why: You need \"My Ideas\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Image Acquisition\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: NN/g — Design Thinking 101 — for “My Ideas” — https://www.nngroup.com/articles/design-thinking/\n   · Video (Tamil): Stacks & Queues — DSA (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 1 - Wednesday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "10:55 AM – 11:35 AM IST",
+        "Problem Lab",
+        "▶ Concept: My Ideas — write the problem answers\n▶ Purpose: so Project Build has a clear, written problem (not guesses).\n▶ Connect: Learning \"My Ideas\" + this write-up → Project.\n▶ Do: Open DT Playbook page 12 and write answers in your own words (short, complete).\n▶ Docs: update PRD (problem, users, needs). SAD not yet. Copy today's answers into the PRD.\n▶ Outcome: DT Playbook page 12 is filled and the problem piece is clear."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "11:35 AM – 11:50 AM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Using Technology to Combat Food Waste\" [Food Waste]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Design the notification system for alerting farmers about crop health issues.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Sustainability Assessment Tool (Assessment Tool)\n   Speak ~90 seconds: Create a tool for assessing sustainability in farming.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 1 - Wednesday",
+        "11:50 AM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: My Ideas\n▶ Why: You need \"My Ideas\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"My Ideas\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Image Acquisition” (GFG search) — Design Thinking 101 — for “My Ideas” — https://www.geeksforgeeks.org/?s=Image%20Acquisition\n   · Video (Tamil): Stacks & Queues — DSA (Tamil) — https://www.youtube.com/results?search_query=Image%20Acquisition"
+      ],
+      [
+        "Week 1 - Wednesday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement — Day 3: STAR one-liner (8–10 min)\n▶ LEARN (interview): Interview tip: practice short STAR lines so full stories come easier later.\n▶ TASKS (do these 2): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n▶ Task 1: Write 1 STAR line about today’s project work.\n▶ Task 2: Say it once.\n▶ Done when: STAR one-liner done."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: My Ideas — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"My Ideas\" → this build.\n▶ Do: Brainstorm at least 8 rough solution ideas (one line each) for your problem. Do not filter for feasibility yet — quantity first.\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Image Processing Module\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Research computer vision algorithms\n   2. Develop image analysis scripts\n▶ Done when: Images are processed and analyzed for crop health."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "3:50 PM – 4:05 PM IST",
+        "Refresh Game",
+        "▶ Refresh (optional)\n▶ Pick ONE: game, short case chat, or rest. No new homework.\n▶ Option A — Game: Pictionary — Product Features (10 min)\n   Draw a product feature (search bar, cart, login, notification) without letters. Team guesses in 60s. Then name where that feature appears in YOUR project.\n▶ Option B — Case: Using Technology to Combat Food Waste → 1 insight for \"Farmers face significant challenges in identifying crop diseases early, leading to\"\n▶ Option C — Rest: water, stretch, quiet sit."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 3 — outcome check\n▶ Purpose today: use \"My Ideas\" to advance \"Understanding image acquisition will help create a system that detects crop diseases effectively\".\n▶ Spotlight outcome: Technical Skills\n▶ 1) LEARNED: What example from your problem made \"My Ideas\" click?\n▶ 2) FINISHED: Name the artifact you would show in 30 seconds.\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Focus\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Worked Examples” / pattern “Linked List”) on YOUR project — not a random puzzle.\nProblem: #876 — Middle of the Linked List (Easy)\nLink: https://leetcode.com/problems/middle-of-the-linked-list/\nBuilds on Coding Practice #146 — LRU Cache\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one ordered list in \"Farmers face significant challenges in identifying crop\" (feed/steps) and one insert/delete case.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 1 draft — article on \"My Ideas\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Write 8–12 lines with a clear title. Include 1 line on how \"My Ideas\" helps \"Farmers face significant challenges in identifying crop diseases\". Save in notes/linkedin-w1.md. Do not post yet.\nDone when: draft has a title, 8–12 lines, and one takeaway unique to Week 1 tied to your product.\nCase study\nFor Thursday Speak & Solve — Week 1\nCase: The Role of AI in Sustainable Agriculture [AI & Sustainability]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day4.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Friday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 10\n▶ Purpose: set today's aim for \"System Design: AI Model\" before class work starts.\n▶ DT step: Sketch Screens\n▶ Write: what still felt fuzzy yesterday · smallest win for today · STUCK\n▶ Motivation: \"Confidence grows when you finish the checklist, not when you scroll.\""
+      ],
+      [
+        "Week 2 - Friday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Sketch Screens\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"System Design: AI Model\" and Project.\n▶ Do: Read the problem + DT Playbook page 34. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update SAD (components, APIs, data) and keep PRD in sync.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields and profits."
+      ],
+      [
+        "Week 2 - Friday",
+        "9:35 AM – 10:45 AM IST",
+        "System Design",
+        "▶ Heading: Client Architecture & Interaction Flows\n▶ DT Playbook Step today: Sketch Screens\n▶ Why this connects: Screens and interactions define the client layer and how it talks to backend services.\n▶ Transition: You have finished \"Training Your AI Model\". Today we move to \"Client Architecture & Interaction Flows\" because Screens and interactions define the client layer and how it talks to backend services..\n▶ Today's lesson: Client Architecture & Interaction Flows\n▶ What to learn: Learn how to evaluate the performance of your AI model using metrics.\n▶ In plain words: Metrics help you understand how well your model is doing.\n▶ Apply to your problem: In notes/system-design.md under Day 10, write where \"Client Architecture & Interaction Flows\" shows up in \"Develop a program that sorts the stored image data from Week 1 based\" (2 bullets).\n▶ Read / watch:\n   Explain why you chose these metrics in your notes.\n▶ Do now: Choose evaluation metrics suitable for your model (e.g., accuracy, precision).\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “today's topic alternate” (YouTube search) — https://www.youtube.com/results?search_query=today's%20topic%20alternate\n▶ Done when: notes/system-design.md has a heading for Day 10 AND includes 2 bullets linking \"Client Architecture & Interaction Flows\" to your project."
+      ],
+      [
+        "Week 2 - Friday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Friday",
+        "10:55 AM – 11:45 AM IST",
+        "Learning",
+        "▶ Concept: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"AI Model\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “System Design: AI Model” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 2 - Friday",
+        "11:45 AM – 12:00 PM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Sustainable Practices in Agriculture\" [Sustainability]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Estimate the costs associated with developing and deploying the crop health monitoring system.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Cloud Storage Solution for Agriculture (Cloud Services)\n   Speak ~90 seconds: Propose a cloud storage solution for agricultural data.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 2 - Friday",
+        "12:00 PM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: System Design: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"System Design: AI Model\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “AI Model” (GFG search) — for “System Design: AI Model” — https://www.geeksforgeeks.org/?s=AI%20Model\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/results?search_query=AI%20Model"
+      ],
+      [
+        "Week 2 - Friday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Friday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement Prep — Mock Q with peer (~20 min)\n▶ Target company: Netflix\n▶ LEARN (interview): Interview tip: pressure practice with a classmate beats only reading notes.\n▶ TASKS (do these 3): Write 1–2 concrete lines linking this task to “AI Model”.\n▶ Task 1: Ask a peer to ask you 2 questions: 1 HR + 1 “explain your project”.\n▶ Task 2: Answer using \"your project problem\" as your project.\n▶ Task 3: Notebook: 1 praise + 1 fix from the peer.\n▶ Done when: 2 mock answers + feedback logged."
+      ],
+      [
+        "Week 2 - Friday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: Sketch Screens — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"System Design: AI Model\" → this build.\n▶ Do: Hand-sketch or wireframe every screen from your Week 2 flow.\n▶ Docs: update SAD (components, APIs, data) and keep PRD in sync.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Scaling the System\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Evaluate system performance\n   2. Implement load balancing\n▶ Done when: System can handle increased user load."
+      ],
+      [
+        "Week 2 - Friday",
+        "3:50 PM – 4:05 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Friday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: End of Week 2 review\n▶ 1) What I shipped this week (list actual outputs/files)\n▶ 2) What is incomplete and why\n▶ 3) One thing I would do differently next week\n▶ 4) Preview of Week 3 goals\n▶ Sprint Demo (Week 2): present your journey Problem → DT → Agent → System Design → LeetCode to a peer/mentor (8–10 min).\n▶ Demo done when: peer/mentor logs 1 question + you list 1 follow-up fix.\n▶ Done when: weekly-review-w2.md has all 4 sections filled.\n▶ Heading: Close Day 10 — outcome check\n▶ Purpose today: use \"System Design: AI Model\" to advance \"Learning API design will enable farmers to upload images and receive timely disease analysis\".\n▶ Spotlight outcome: Attitude — Curiosity & Accountability\n▶ 1) LEARNED: If a friend asked about \"System Design: AI Model\", what 2 sentences would you say?\n▶ 2) FINISHED: Which Project Build step is truly finished?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Storyboard\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 2 - Friday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Practice Problems & Review” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #295 — Find Median from Data Stream\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 2 — leave 2 thoughtful comments on posts about \"System Design: AI Model\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Find 2 real posts. Comment with one insight each that could help \"Farmers face significant challenges in identifying crop diseases\" (not \"great post\"). Save links in notes/linkedin-w2-comments.md.\nDone when: 2 comments are live and noted.\nCase study\nFor Monday Speak & Solve — Week 3\nCase: Remote Sensing for Crop Monitoring [Remote Sensing]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day11.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Monday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 6\n▶ Purpose: set today's aim for \"Empathy Map\" before class work starts.\n▶ DT step: Empathy Map\n▶ Write: DONE yesterday · TODAY on \"Empathy Map\" · STUCK (if any)\n▶ Motivation: \"Your diagram is a promise: keep it honest and labeled.\""
+      ],
+      [
+        "Week 2 - Monday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Empathy Map\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"Empathy Map\" and Project.\n▶ Do: Read the problem + DT Playbook page 18. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields and profits."
+      ],
+      [
+        "Week 2 - Monday",
+        "9:35 AM – 10:05 AM IST",
+        "System Design",
+        "▶ Heading: User Journeys & Client-Side Concerns\n▶ DT Playbook Step today: Empathy Map\n▶ Why this connects: Personas and empathy maps drive which clients, latency, and UX constraints the system must serve.\n▶ Transition: You have finished \"Image Acquisition Techniques\". Today we move to \"User Journeys & Client-Side Concerns\" because Personas and empathy maps drive which clients, latency, and UX constraints the system must serve..\n▶ Today's lesson: User Journeys & Client-Side Concerns\n▶ What to learn: Understand the basics of image processing and its applications in agriculture.\n▶ In plain words: Image processing helps in analyzing crop health.\n▶ Apply to your problem: In notes/system-design.md under Day 6, write where \"User Journeys & Client-Side Concerns\" shows up in \"Develop a program that sorts the stored image data from Week 1 based\" (2 bullets).\n▶ Read / watch:\n   Summarize the techniques you find in your notes.\n▶ Do now: Research basic image processing techniques relevant to your project.\n▶ Extra hint from your System Design notes: To build a real-time crop health monitoring system, the design should include the following components: 1. **Image Acquisition**: Use\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “AI Model” (YouTube search) — https://www.youtube.com/results?search_query=AI%20Model\n▶ Done when: notes/system-design.md has a heading for Day 6 AND includes 2 bullets linking \"User Journeys & Client-Side Concerns\" to your project."
+      ],
+      [
+        "Week 2 - Monday",
+        "10:05 AM – 10:45 AM IST",
+        "Learning",
+        "▶ Concept: AI Model\n▶ Why: You need \"Empathy Map\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"AI Model\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: NN/g — Empathy Mapping — https://www.nngroup.com/articles/empathy-mapping/\n   · Video (Tamil): Design Thinking overview — Tamil path (Tamil) — https://www.youtube.com/watch?v=ZWK32ZxqzwQ"
+      ],
+      [
+        "Week 2 - Monday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Monday",
+        "10:55 AM – 11:35 AM IST",
+        "Problem Lab",
+        "▶ Concept: Empathy Map — write the problem answers\n▶ Purpose: so Project Build has a clear, written problem (not guesses).\n▶ Connect: Learning \"Empathy Map\" + this write-up → Project.\n▶ Do: Open DT Playbook page 18 and write answers in your own words (short, complete).\n▶ Docs: update PRD (problem, users, needs). SAD not yet. Copy today's answers into the PRD.\n▶ Outcome: DT Playbook page 18 is filled and the problem piece is clear."
+      ],
+      [
+        "Week 2 - Monday",
+        "11:35 AM – 11:50 AM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Implement Image Processing Module\" [Development]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Develop a risk management plan for the crop health monitoring project.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Weather Impact Analysis Tool (Analytics Tool)\n   Speak ~90 seconds: Develop a tool for analyzing weather impacts on crops.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 2 - Monday",
+        "11:50 AM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: Empathy Map\n▶ Why: You need \"Empathy Map\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"Empathy Map\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “AI Model” (GFG search) — Empathy Mapping — https://www.geeksforgeeks.org/?s=AI%20Model\n   · Video (Tamil): Design Thinking overview — Tamil path (Tamil) — https://www.youtube.com/results?search_query=AI%20Model"
+      ],
+      [
+        "Week 2 - Monday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Monday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement — Day 6: Skill keyword (8–10 min)\n▶ LEARN (interview): Interview tip: job posts show the words interviewers listen for.\n▶ TASKS (do these 2): Write 1–2 concrete lines linking this task to “AI Model”.\n▶ Task 1: From 1 Netflix job post, copy 3 skill keywords.\n▶ Task 2: Mark each: know / learning.\n▶ Done when: 3 keywords marked."
+      ],
+      [
+        "Week 2 - Monday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: Empathy Map — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"Empathy Map\" → this build.\n▶ Do: Build a 4-quadrant empathy map (Says/Thinks/Does/Feels) for your persona based on the focus statement from Day 5.\n▶ Docs: update PRD (problem, users, needs). SAD not yet.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: User Interface Design\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Create wireframes\n   2. Develop user interface prototypes\n▶ Done when: UI is user-friendly and tested."
+      ],
+      [
+        "Week 2 - Monday",
+        "3:50 PM – 4:05 PM IST",
+        "Refresh Game",
+        "▶ Refresh (optional)\n▶ Pick ONE: game, short case chat, or rest. No new homework.\n▶ Option A — Game: Emoji Empathy (8 min)\n   Show 5 emojis that represent your user's day. Peers guess the pain point. Connect the winning guess to today's DT step.\n▶ Option B — Case: Implement Image Processing Module → 1 insight for \"Farmers face significant challenges in identifying crop diseases early, leading to\"\n▶ Option C — Rest: water, stretch, quiet sit."
+      ],
+      [
+        "Week 2 - Monday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 6 — outcome check\n▶ Purpose today: use \"Empathy Map\" to advance \"Learning API design will enable farmers to easily access crop health analysis, improving their\".\n▶ Spotlight outcome: Technical Skills\n▶ 1) LEARNED: What is the one idea about \"Empathy Map\" you can explain in plain words now?\n▶ 2) FINISHED: Which notes/sketch did you save that proves today's work?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"User Actions\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 2 - Monday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Introduction & Theory” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #1046 — Last Stone Weight\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nImplement Image Processing Module (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Begin development of the image processing module.\nWhat to build: Begin development of the image processing module.\nStep 1: Set up development environment\nStep 2: Code image processing algorithms\nStep 3: Test initial implementation\nDone when: Image processing module is functional.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Tuesday Speak & Solve — Week 2\nCase: Finalize AI Model [Model Development]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day7.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Thursday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 9\n▶ Purpose: set today's aim for \"System Design: AI Model\" before class work starts.\n▶ DT step: Features\n▶ Write: DONE yesterday · TODAY on \"System Design: AI Model\" · STUCK (or \"none\")\n▶ Motivation: \"Make the happy path work before decorating the edges.\""
+      ],
+      [
+        "Week 2 - Thursday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Features\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"System Design: AI Model\" and Project.\n▶ Do: Read the problem + DT Playbook page 28. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (features) and start SAD (modules + data flow).\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields and profits."
+      ],
+      [
+        "Week 2 - Thursday",
+        "9:35 AM – 10:45 AM IST",
+        "System Design",
+        "▶ Heading: Service Boundaries & Modules\n▶ DT Playbook Step today: Features\n▶ Why this connects: Grouping features foreshadows how you split services or modules in the architecture.\n▶ Transition: You have finished \"Building a Simple AI Model\". Today we move to \"Service Boundaries & Modules\" because Grouping features foreshadows how you split services or modules in the architecture..\n▶ Today's lesson: Service Boundaries & Modules\n▶ What to learn: Understand the process of training an AI model with labeled data.\n▶ In plain words: Quality data leads to better model performance.\n▶ Apply to your problem: In notes/system-design.md under Day 9, write where \"Service Boundaries & Modules\" shows up in \"Develop a program that sorts the stored image data from Week 1 based\" (2 bullets).\n▶ Read / watch:\n   Document the data sources and labeling process in your notes.\n▶ Do now: Identify the data you will use to train your model.\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “AI Model” (YouTube search) — https://www.youtube.com/results?search_query=AI%20Model\n▶ Done when: notes/system-design.md has a heading for Day 9 AND includes 2 bullets linking \"Service Boundaries & Modules\" to your project."
+      ],
+      [
+        "Week 2 - Thursday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Thursday",
+        "10:55 AM – 11:45 AM IST",
+        "Learning",
+        "▶ Concept: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"AI Model\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “System Design: AI Model” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 2 - Thursday",
+        "11:45 AM – 12:00 PM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Challenges in Crop Disease Management\" [Agricultural Challenges]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Identify key stakeholders and potential partnerships for the crop health monitoring project.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: AI Disease Detection Model (AI Model)\n   Speak ~90 seconds: Outline an AI model for detecting crop diseases.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 2 - Thursday",
+        "12:00 PM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: System Design: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"System Design: AI Model\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “AI Model” (GFG search) — for “System Design: AI Model” — https://www.geeksforgeeks.org/?s=AI%20Model\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/results?search_query=AI%20Model"
+      ],
+      [
+        "Week 2 - Thursday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Thursday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement Prep — Why this company? (~20 min)\n▶ Target company: Netflix\n▶ LEARN (interview): Interview tip: “Why Netflix?” needs 2 real facts + 1 link to your skills/project — not “it is famous”.\n▶ TASKS (do these 3): Write 1–2 concrete lines linking this task to “AI Model”.\n▶ Task 1: Find 2 real facts about Netflix (product, values, recent news).\n▶ Task 2: Write a 5-line answer: Fact1 + Fact2 + how your project (\"your project problem\") fits.\n▶ Task 3: Say the answer once out loud.\n▶ Done when: 2 facts + spoken “Why company” answer."
+      ],
+      [
+        "Week 2 - Thursday",
+        "1:35 PM – 3:25 PM IST",
+        "Project Build",
+        "▶ Concept: Features — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"System Design: AI Model\" → this build.\n▶ Do: Cluster your user actions into 4-6 named features. Mark each MVP (must-have) or Later.\n▶ Docs: update PRD (features) and start SAD (modules + data flow).\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Pilot Testing\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Select test farms\n   2. Gather feedback from farmers\n▶ Done when: Pilot test is completed and evaluated."
+      ],
+      [
+        "Week 2 - Thursday",
+        "3:25 PM – 3:40 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Thursday",
+        "3:40 PM – 4:05 PM IST",
+        "Mini Build",
+        "▶ Mini Build — interest + strength + overcome weakness\n▶ Purpose: practise today's spotlight outcome on YOUR problem (not busywork).\n▶ Spotlight outcome: Technical Skills — One concrete technical artifact you can show (code, diagram, config, test).\n▶ Why this matters: builds Attitude, Logic/Business, and Technical skill for \"Farmers face significant challenges in identifying crop diseases early, leading\".\n▶ Interest bridge: use \"Cricket\" as the metaphor or demo style for \"System Design: AI Model\".\n▶ Subject to reuse: \"System Design: AI Model\" (same as Learning — do not invent a new topic).\n▶ Technical: produce ONE artifact for \"System Design: AI Model\" (snippet, diagram, table, or test case).\n▶ Subject integration: name which \"System Design: AI Model\" concept you reused in the artifact.\n▶ Done check: artifact filename + 1-line \"what it proves\".\n▶ Overcome weakness (tiny step): Growth challenge (long theory): read ONE short section on \"System Design: AI Model\" (≤1 page / 5 min), then do one practice step.\n▶ Why: future roles need this skill; today we practise a tiny slice only.\n▶ Medium: Tamil OK for thinking aloud; keep key terms in English.\n▶ Related DT Step: Features\n▶ Done when: mini-build-day9.md has (1) outcome (2) interest link (3) one weakness step result."
+      ],
+      [
+        "Week 2 - Thursday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 9 — outcome check\n▶ Purpose today: use \"System Design: AI Model\" to advance \"Learning to design APIs will enable farmers to easily upload images for analysis\".\n▶ Spotlight outcome: Technical Skills\n▶ 1) LEARNED: What is still fuzzy about \"System Design: AI Model\" after today?\n▶ 2) FINISHED: What save message describes today's change?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Sketch Screens\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 2 - Thursday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Edge Cases & Variants” / pattern “Graph”) on YOUR project — not a random puzzle.\nProblem: #207 — Course Schedule (Medium)\nLink: https://leetcode.com/problems/course-schedule/\nBuilds on Coding Practice #200 — Number of Islands\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Sketch 4 nodes from \"Farmers face significant challenges in identifying crop\" + 1 edge type — 1 sentence on why search helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nFinalize AI Model (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Complete the training and validation of the AI model.\nWhat to build: Complete the training and validation of the AI model.\nStep 1: Train model on dataset\nStep 2: Validate model performance\nStep 3: Document results\nDone when: AI model is ready for deployment.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Friday Speak & Solve — Week 2\nCase: Sustainable Practices in Agriculture [Sustainability]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day10.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 7\n▶ Purpose: set today's aim for \"System Design: AI Model\" before class work starts.\n▶ DT step: User Actions\n▶ Write: one thing that clicked yesterday · what you will finish today · STUCK\n▶ Motivation: \"Reuse yesterday's output — that is how weeks compound.\""
+      ],
+      [
+        "Week 2 - Tuesday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: User Actions\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"System Design: AI Model\" and Project.\n▶ Do: Read the problem + DT Playbook page 24. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (features) and start SAD (modules + data flow).\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, affecting yields."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "9:35 AM – 10:45 AM IST",
+        "System Design",
+        "▶ Heading: API Endpoints & Use Cases\n▶ DT Playbook Step today: User Actions\n▶ Why this connects: Each user action becomes a use case or API the system must support.\n▶ Transition: You have finished \"Introduction to Image Processing\". Today we move to \"API Endpoints & Use Cases\" because Each user action becomes a use case or API the system must support..\n▶ Today's lesson: API Endpoints & Use Cases\n▶ What to learn: Explore common computer vision algorithms used for image analysis.\n▶ In plain words: Algorithms help in identifying patterns in images.\n▶ Apply to your problem: In notes/system-design.md under Day 7, write where \"API Endpoints & Use Cases\" shows up in \"Develop a program that sorts the stored image data from Week 1 based\" (2 bullets).\n▶ Read / watch:\n   Explain how these algorithms work in your notes.\n▶ Do now: List computer vision algorithms you might use for disease detection.\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “AI Model” (YouTube search) — https://www.youtube.com/results?search_query=AI%20Model\n▶ Done when: notes/system-design.md has a heading for Day 7 AND includes 2 bullets linking \"API Endpoints & Use Cases\" to your project."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "10:55 AM – 11:45 AM IST",
+        "Learning",
+        "▶ Concept: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"AI Model\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “System Design: AI Model” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 2 - Tuesday",
+        "11:45 AM – 12:00 PM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Finalize AI Model\" [Model Development]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Assess the technical feasibility of the proposed AI solution for crop health monitoring.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Crop Health Monitoring App (Mobile Application)\n   Speak ~90 seconds: Pitch a mobile application that uses AI to monitor crop health.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 2 - Tuesday",
+        "12:00 PM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: System Design: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"System Design: AI Model\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “AI Model” (GFG search) — for “System Design: AI Model” — https://www.geeksforgeeks.org/?s=AI%20Model\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/results?search_query=AI%20Model"
+      ],
+      [
+        "Week 2 - Tuesday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement Prep — STAR story practice (~20 min)\n▶ Target company: Netflix\n▶ LEARN (interview): Interview tip: STAR = Situation → Task → Action → Result. One clear story beats a long story.\n▶ TASKS (do these 3): Write 1–2 concrete lines linking this task to “AI Model”.\n▶ Task 1: Pick 1 real moment from this week’s project work on \"your project problem\".\n▶ Task 2: Write 4 lines only: S / T / A / R.\n▶ Task 3: Speak the STAR story in 60–90 sec.\n▶ Done when: 4 STAR lines written + spoken once."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "1:35 PM – 3:25 PM IST",
+        "Project Build",
+        "▶ Concept: User Actions — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"System Design: AI Model\" → this build.\n▶ Do: List every action your primary user needs to perform to go from problem to resolution, in order.\n▶ Docs: update PRD (features) and start SAD (modules + data flow).\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Notification System\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Set up notification service\n   2. Develop alert protocols\n▶ Done when: Farmers receive timely alerts."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "3:25 PM – 3:40 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "3:40 PM – 4:05 PM IST",
+        "Mini Build",
+        "▶ Mini Build — interest + strength + overcome weakness\n▶ Purpose: practise today's spotlight outcome on YOUR problem (not busywork).\n▶ Spotlight outcome: Attitude — Curiosity & Accountability — Ask one honest question, own one promise, finish one small proof.\n▶ Why this matters: builds Attitude, Logic/Business, and Technical skill for \"Farmers face significant challenges in identifying crop diseases early, leading\".\n▶ Interest bridge: use \"Cricket\" as the metaphor or demo style for \"System Design: AI Model\".\n▶ Subject to reuse: \"System Design: AI Model\" (same as Learning — do not invent a new topic).\n▶ Curiosity (2 min): write ONE question about \"System Design: AI Model\" you cannot answer yet.\n▶ Accountability (3 min): promise one deliverable for \"Farmers face significant challenges in identifying crop\" before the day ends — write it at the top of your notes.\n▶ Subject link: connect \"System Design: AI Model\" → that question in 1 sentence.\n▶ Overcome weakness (tiny step): Growth challenge (long theory): read ONE short section on \"System Design: AI Model\" (≤1 page / 5 min), then do one practice step.\n▶ Why: future roles need this skill; today we practise a tiny slice only.\n▶ Medium: Tamil OK for thinking aloud; keep key terms in English.\n▶ Related DT Step: User Actions\n▶ Done when: mini-build-day7.md has (1) outcome (2) interest link (3) one weakness step result."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 7 — outcome check\n▶ Purpose today: use \"System Design: AI Model\" to advance \"Learning about RESTful APIs enables farmers to upload images and receive timely analysis\".\n▶ Spotlight outcome: Attitude — Curiosity & Accountability\n▶ 1) LEARNED: What mistake did you almost make with \"System Design: AI Model\", and how did you catch it?\n▶ 2) FINISHED: What small test proved today's code?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"App State\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Core Algorithm” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #347 — Top K Frequent Elements\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nCase study\nFor Wednesday Speak & Solve — Week 2\nCase: Smart Farming: Leveraging Technology for Sustainable Agriculture [Technology & Sustainability]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day8.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 8\n▶ Purpose: set today's aim for \"System Design: AI Model\" before class work starts.\n▶ DT step: App State\n▶ Write: which file you touched last · today's code aim · STUCK\n▶ Motivation: \"Bugs are feedback in work clothes. Log one, fix one.\""
+      ],
+      [
+        "Week 2 - Wednesday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: App State\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"System Design: AI Model\" and Project.\n▶ Do: Read the problem + DT Playbook page 26. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update PRD (features) and start SAD (modules + data flow).\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to detect crop diseases early, impacting yields."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "9:35 AM – 10:45 AM IST",
+        "System Design",
+        "▶ Heading: State Management & Data Models\n▶ DT Playbook Step today: App State\n▶ Why this connects: App state changes map to how the system stores and transitions entity state.\n▶ Transition: You have finished \"Computer Vision Algorithms\". Today we move to \"State Management & Data Models\" because App state changes map to how the system stores and transitions entity state..\n▶ Today's lesson: State Management & Data Models\n▶ What to learn: Learn how to build a basic AI model for image classification.\n▶ In plain words: Start with a simple model before advancing to complex ones.\n▶ Apply to your problem: In notes/system-design.md under Day 8, write where \"State Management & Data Models\" shows up in \"Develop a program that sorts the stored image data from Week 1 based\" (2 bullets).\n▶ Read / watch:\n   Include the architecture and layers in your notes.\n▶ Do now: Draft a plan for your AI model using a convolutional neural network (CNN).\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: CNNs Explained — https://www.youtube.com/watch?v=YRhxdVk_sIs\n▶ Done when: notes/system-design.md has a heading for Day 8 AND includes 2 bullets linking \"State Management & Data Models\" to your project."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "10:55 AM – 11:45 AM IST",
+        "Learning",
+        "▶ Concept: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"AI Model\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “System Design: AI Model” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 2 - Wednesday",
+        "11:45 AM – 12:00 PM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Smart Farming: Leveraging Technology for Sustainable Agriculture\" [Technology & Sustainability]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Develop a project timeline and resource allocation plan for implementing the crop health monitoring system.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Drone Imaging System (Drone Technology)\n   Speak ~90 seconds: Describe a drone system designed for agricultural imaging.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 2 - Wednesday",
+        "12:00 PM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: System Design: AI Model\n▶ Why: You need \"System Design: AI Model\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"System Design: AI Model\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “AI Model” (GFG search) — for “System Design: AI Model” — https://www.geeksforgeeks.org/?s=AI%20Model\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/results?search_query=AI%20Model"
+      ],
+      [
+        "Week 2 - Wednesday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement Prep — Technical concept explain (~20 min)\n▶ Target company: Netflix\n▶ LEARN (interview): Interview tip: if you cannot explain a topic simply, the interviewer assumes you do not know it.\n▶ TASKS (do these 3): Write 1–2 concrete lines linking this task to “AI Model”.\n▶ Task 1: Pick 1 concept from today’s Learning slot.\n▶ Task 2: Write a 4-sentence simple explanation using your problem domain (\"your project problem\").\n▶ Task 3: Speak it in 60 sec to a peer (or aloud).\n▶ Done when: 4-sentence explain + spoken once."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: App State — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"System Design: AI Model\" → this build.\n▶ Do: For each user action from Day 1, define what state changes (e.g., 'status: pending → confirmed').\n▶ Docs: update PRD (features) and start SAD (modules + data flow).\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Data Analytics\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Implement analytics tools\n   2. Develop reporting features\n▶ Done when: Analytics provide actionable insights."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "3:50 PM – 4:05 PM IST",
+        "Refresh Game",
+        "▶ Refresh (optional)\n▶ Pick ONE: game, short case chat, or rest. No new homework.\n▶ Option A — Game: Yes/No Hot Seat (8 min)\n   One student is the 'product'. Class asks yes/no about target user until they guess the persona. Then the hot-seat student reveals their real persona from the problem statement.\n▶ Option B — Case: Smart Farming: Leveraging Technology for Sustainable Agriculture → 1 insight for \"Farmers face significant challenges in identifying crop diseases early, leading to\"\n▶ Option C — Rest: water, stretch, quiet sit."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 8 — outcome check\n▶ Purpose today: use \"System Design: AI Model\" to advance \"Learning to design APIs will enable farmers to upload images for disease analysis\".\n▶ Spotlight outcome: Logical & Business skill\n▶ 1) LEARNED: What example from your problem made \"System Design: AI Model\" click?\n▶ 2) FINISHED: What error did you fix, and where?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Features\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Worked Examples” / pattern “Dynamic Programming”) on YOUR project — not a random puzzle.\nProblem: #70 — Climbing Stairs (Easy)\nLink: https://leetcode.com/problems/climbing-stairs/\nBuilds on Coding Practice #53 — Maximum Subarray\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one \"best choice\" in \"Farmers face significant challenges in identifying crop\" (cost/score) where remembering past answers helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 2 — outline a 5-slide carousel on \"System Design: AI Model\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Write 5 slide titles + 1 line each in notes/linkedin-w2-carousel.md. Slide 5 = how this helps \"Farmers face significant challenges in identifying crop diseases\".\nDone when: 5 slides are outlined with one takeaway for your product.\nCase study\nFor Thursday Speak & Solve — Week 2\nCase: Challenges in Crop Disease Management [Agricultural Challenges]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day9.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 3 - Monday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Stand-Up — Day 11\n▶ Purpose: set today's aim for \"System Design: Scaling Considerations\" before class work starts.\n▶ DT step: Storyboard\n▶ Write: DONE yesterday · TODAY on \"System Design: Scaling Considerations\" · STUCK (if any)\n▶ Motivation: \"Finish the loop: detect → decide → show a result.\""
+      ],
+      [
+        "Week 3 - Monday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Storyboard\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"System Design: Scaling Considerations\" and Project.\n▶ Do: Read the problem + DT Playbook page 36. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update SAD (components, APIs, data) and keep PRD in sync.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields."
+      ],
+      [
+        "Week 3 - Monday",
+        "9:35 AM – 10:45 AM IST",
+        "System Design",
+        "▶ Heading: Client Architecture & Interaction Flows\n▶ DT Playbook Step today: Storyboard\n▶ Why this connects: Screens and interactions define the client layer and how it talks to backend services.\n▶ Transition: You have finished \"Evaluating Model Performance\". Today we move to \"Client Architecture & Interaction Flows\" because Screens and interactions define the client layer and how it talks to backend services..\n▶ Today's lesson: Client Architecture & Interaction Flows\n▶ What to learn: Understand the basics of deploying your AI model to a production environment.\n▶ In plain words: Deployment makes your model accessible to users.\n▶ Apply to your problem: In notes/system-design.md under Day 11, write where \"Client Architecture & Interaction Flows\" shows up in \"Implement a queue system to handle multiple image data inputs for\" (2 bullets).\n▶ Read / watch:\n   Include potential platforms and tools in your notes.\n▶ Do now: Outline a deployment strategy for your AI model.\n▶ Extra hint from your System Design notes: To build a real-time crop health monitoring system, the design should include the following components: 1. **Image Acquisition**: Use\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “today's topic practice” (YouTube search) — https://www.youtube.com/results?search_query=today's%20topic%20practice\n▶ Done when: notes/system-design.md has a heading for Day 11 AND includes 2 bullets linking \"Client Architecture & Interaction Flows\" to your project."
+      ],
+      [
+        "Week 3 - Monday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 3 - Monday",
+        "10:55 AM – 11:45 AM IST",
+        "Learning",
+        "▶ Concept: Scaling Considerations\n▶ Why: You need \"System Design: Scaling Considerations\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Scaling Considerations\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “System Design: Scaling Considerations” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 3 - Monday",
+        "11:45 AM – 12:00 PM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"Remote Sensing for Crop Monitoring\" [Remote Sensing]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Evaluate the performance metrics for the AI model used in the crop health monitoring system.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Farmer Notification System (Notification Service)\n   Speak ~90 seconds: Design a notification system for farmers regarding crop health.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 3 - Monday",
+        "12:00 PM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: System Design: Scaling Considerations\n▶ Why: You need \"System Design: Scaling Considerations\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"System Design: Scaling Considerations\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Scaling Considerations” (GFG search) — for “System Design: Scaling Considerations” — https://www.geeksforgeeks.org/?s=Scaling%20Considerations\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/results?search_query=Scaling%20Considerations"
+      ],
+      [
+        "Week 3 - Monday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 3 - Monday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement Prep — Introduce yourself (HR) (~20 min)\n▶ Target company: Netflix\n▶ LEARN (interview): Interview tip: “Tell me about yourself” = 60–90 sec: Who you are → What you are learning → 1 project line → Why Netflix.\n▶ TASKS (do these 3): Write 1–2 concrete lines linking this task to “Scaling Considerations”.\n▶ Task 1: Write a 6–8 line “Tell me about yourself” script (include 1 line about: \"your project problem\").\n▶ Task 2: Say it out loud once (phone timer 90 sec).\n▶ Task 3: Notebook: keep the final script + 1 line you will improve tomorrow.\n▶ Done when: Script written + spoken once."
+      ],
+      [
+        "Week 3 - Monday",
+        "1:35 PM – 3:50 PM IST",
+        "Project Build",
+        "▶ Concept: Storyboard — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"System Design: Scaling Considerations\" → this build.\n▶ Do: Arrange your sketches into a storyboard showing the full journey for your primary persona.\n▶ Docs: update SAD (components, APIs, data) and keep PRD in sync.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: User Training\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Develop training materials\n   2. Conduct training sessions\n▶ Done when: Farmers are proficient in using the system."
+      ],
+      [
+        "Week 3 - Monday",
+        "3:50 PM – 4:05 PM IST",
+        "Refresh Game",
+        "▶ Refresh (optional)\n▶ Pick ONE: game, short case chat, or rest. No new homework.\n▶ Option A — Game: Pictionary — Product Features (10 min)\n   Draw a product feature (search bar, cart, login, notification) without letters. Team guesses in 60s. Then name where that feature appears in YOUR project.\n▶ Option B — Case: Remote Sensing for Crop Monitoring → 1 insight for \"Farmers face significant challenges in identifying crop diseases early, leading to\"\n▶ Option C — Rest: water, stretch, quiet sit."
+      ],
+      [
+        "Week 3 - Monday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Close Day 11 — outcome check\n▶ Purpose today: use \"System Design: Scaling Considerations\" to advance \"Learning to design APIs will enable farmers to interact with the crop health monitoring system\".\n▶ Spotlight outcome: Logical & Business skill\n▶ 1) LEARNED: What is the one idea about \"System Design: Scaling Considerations\" you can explain in plain words now?\n▶ 2) FINISHED: Which file/function works now that did not this morning?\n▶ 3) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 4) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 5) TOMORROW: Tomorrow: \"Refine Behaviour\" — reopen today's notes first.\n▶ Done when: all 5 answers are written (no repeats from earlier slots)."
+      ],
+      [
+        "Week 3 - Monday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Introduction & Theory” / pattern “Sorting”) on YOUR project — not a random puzzle.\nProblem: #215 — Kth Largest Element in an Array (Medium)\nLink: https://leetcode.com/problems/kth-largest-element-in-an-array/\nBuilds on Coding Practice #215 — Kth Largest Element in an Array\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Scaling Considerations”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one list/field in \"Farmers face significant challenges in identifying crop\" where this search/filter helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nDefine Project Scope (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Outline the objectives and deliverables of the crop health monitoring system.\nWhat to build: Outline the objectives and deliverables of the crop health monitoring system.\nStep 1: Identify key stakeholders\nStep 2: Gather requirements\nStep 3: Document project scope\nDone when: Project scope is approved by stakeholders.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Tuesday Speak & Solve — Week 3\nCase: The Importance of Soil Health in Crop Production [Soil Health]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Scaling Considerations”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day12.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "9:00 AM – 9:15 AM IST",
+        "Stand-Up",
+        "▶ Final-day personal standup\n▶ Purpose: close \"System Design: Scaling Considerations\" and finish what's open.\n▶ DT step: Refine Behaviour\n▶ Write: what you shipped this plan · what is still open · first close-out action today\n▶ Motivation: \"Polish the demo path. Reviewers remember the story.\""
+      ],
+      [
+        "Week 3 - Tuesday",
+        "9:15 AM – 9:35 AM IST",
+        "Problem Review",
+        "▶ Concept: Refine Behaviour\n▶ Purpose: understand the problem before you write answers or build.\n▶ Connect: this piece drives Learning \"System Design: Scaling Considerations\" and Project.\n▶ Do: Read the problem + DT Playbook page 38. Do not write DT answers yet (that is Problem Lab).\n▶ Docs: update SAD (components, APIs, data) and keep PRD in sync.\n▶ Outcome: you can say the problem in one sentence: Farmers struggle to identify crop diseases early, impacting yields."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "9:35 AM – 10:45 AM IST",
+        "System Design",
+        "▶ Heading: Client Architecture & Interaction Flows\n▶ DT Playbook Step today: Refine Behaviour\n▶ Why this connects: Screens and interactions define the client layer and how it talks to backend services.\n▶ Transition: You have finished \"Deploying Your AI Model\". Today we move to \"Client Architecture & Interaction Flows\" because Screens and interactions define the client layer and how it talks to backend services..\n▶ Today's lesson: Client Architecture & Interaction Flows\n▶ What to learn: Learn the fundamentals of designing user interfaces for your application.\n▶ In plain words: A good UI enhances user experience.\n▶ Apply to your problem: In notes/system-design.md under Day 12, write where \"Client Architecture & Interaction Flows\" shows up in \"Implement a queue system to handle multiple image data inputs for\" (2 bullets).\n▶ Read / watch:\n   Include elements like buttons, images, and data displays in your notes.\n▶ Do now: Sketch a basic layout for your crop health monitoring system's UI.\n▶ Helpful links:\n   · Website: Articles for “today's topic” (GFG search) — https://www.geeksforgeeks.org/?s=today's%20topic\n   · YouTube: Videos for “Scaling Considerations” (YouTube search) — https://www.youtube.com/results?search_query=Scaling%20Considerations\n▶ Done when: notes/system-design.md has a heading for Day 12 AND includes 2 bullets linking \"Client Architecture & Interaction Flows\" to your project."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "10:45 AM – 10:55 AM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "10:55 AM – 11:45 AM IST",
+        "Learning",
+        "▶ Concept: Scaling Considerations\n▶ Why: You need \"System Design: Scaling Considerations\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can explain \"Scaling Considerations\" in simple words and show how it helps \"Farmers face significant challenges in identifying crop diseases\".\n▶ Links:\n   · Website: System Design Primer (GitHub) — for “System Design: Scaling Considerations” — https://github.com/donnemartin/system-design-primer\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/watch?v=GlZ5sAPnClA"
+      ],
+      [
+        "Week 3 - Tuesday",
+        "11:45 AM – 12:00 PM IST",
+        "Speak & Solve",
+        "▶ Speak & Solve — use last night's case prep\n▶ Purpose: explain clearly and connect ideas to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ From Assess: fold \"Target 6–8 LPA\" into your last sentence.\n▶ Case from last night's homework: \"The Importance of Soil Health in Crop Production\" [Soil Health]\n▶ Case → product: Name ONE decision you will change in \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" because of this case.\n▶ 1) Practice question (Product thinking)\n   Question: Create a go-to-market strategy for the crop health monitoring system.\n   Speak ~1 minute. Tie the answer to \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\" in your last sentence.\n▶ 2) Product of the Day\n   Product: Data Analytics Dashboard (Analytics Tool)\n   Speak ~90 seconds: Create a dashboard for visualizing crop health data.\n   End with 1 lesson for YOUR product: \"Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\".\n▶ Connect to your product: \"Farmers face significant challenges in identifying crop diseases early, leading to\" → after speaking, write 1 line in notes/speak-day.md: what you will build differently"
+      ],
+      [
+        "Week 3 - Tuesday",
+        "12:00 PM – 12:30 PM IST",
+        "Learning",
+        "▶ Concept: System Design: Scaling Considerations\n▶ Why: You need \"System Design: Scaling Considerations\" to take the next step on \"Farmers face significant challenges in identifying crop\".\n▶ Outcome: You can use \"System Design: Scaling Considerations\" in Project Build with one example of your own.\n▶ Links:\n   · Website: Articles for “Scaling Considerations” (GFG search) — for “System Design: Scaling Considerations” — https://www.geeksforgeeks.org/?s=Scaling%20Considerations\n   · Video (Tamil): System design intro — Tamil-friendly path (Tamil) — https://www.youtube.com/results?search_query=Scaling%20Considerations"
+      ],
+      [
+        "Week 3 - Tuesday",
+        "12:30 PM – 1:15 PM IST",
+        "Lunch",
+        "▶ Lunch\n▶ Rest only — no task."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "1:15 PM – 1:35 PM IST",
+        "Placement Prep",
+        "▶ Placement Prep — STAR story practice (~20 min)\n▶ Target company: Netflix\n▶ LEARN (interview): Interview tip: STAR = Situation → Task → Action → Result. One clear story beats a long story.\n▶ TASKS (do these 3): Write 1–2 concrete lines linking this task to “Scaling Considerations”.\n▶ Task 1: Pick 1 real moment from this week’s project work on \"your project problem\".\n▶ Task 2: Write 4 lines only: S / T / A / R.\n▶ Task 3: Speak the STAR story in 60–90 sec.\n▶ Done when: 4 STAR lines written + spoken once."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "1:35 PM – 3:25 PM IST",
+        "Project Build",
+        "▶ Concept: Refine Behaviour — apply it on the product\n▶ Purpose: turn today's learning into a real PRD/SAD or code step.\n▶ Connect: Problem + Learning \"System Design: Scaling Considerations\" → this build.\n▶ Do: For your 3 core screens, define: happy path, error state, empty state.\n▶ Docs: update SAD (components, APIs, data) and keep PRD in sync.\n▶ Outcome: one update in PRD and/or SAD (and a small file/sketch if you code today).\n▶ BUILD DELIVERABLE SHAPE — focus: Feedback Loop\n▶ Use ONLY if each item advances TODAY's learned concepts inside ONE pipeline (A→B→C).\n▶ Skip any checklist item that would start a second unrelated mini-project.\n   1. Collect user feedback\n   2. Iterate on system features\n▶ Done when: System improvements are implemented based on feedback."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "3:25 PM – 3:40 PM IST",
+        "Break",
+        "▶ Break\n▶ Rest only — no task."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "3:40 PM – 4:05 PM IST",
+        "Mini Build",
+        "▶ Mini Build — interest + strength + overcome weakness\n▶ Purpose: practise today's spotlight outcome on YOUR problem (not busywork).\n▶ Spotlight outcome: Technical Skills — One concrete technical artifact you can show (code, diagram, config, test).\n▶ Why this matters: builds Attitude, Logic/Business, and Technical skill for \"Farmers face significant challenges in identifying crop diseases early, leading\".\n▶ Interest bridge: use \"Cricket\" as the metaphor or demo style for \"System Design: Scaling Considerations\".\n▶ Subject to reuse: \"System Design: Scaling Considerations\" (same as Learning — do not invent a new topic).\n▶ Technical: produce ONE artifact for \"System Design: Scaling Considerations\" (snippet, diagram, table, or test case).\n▶ Subject integration: name which \"System Design: Scaling Considerations\" concept you reused in the artifact.\n▶ Done check: artifact filename + 1-line \"what it proves\".\n▶ Overcome weakness (tiny step): Growth challenge (long theory): read ONE short section on \"System Design: Scaling Considerations\" (≤1 page / 5 min), then do one practice step.\n▶ Why: future roles need this skill; today we practise a tiny slice only.\n▶ Medium: Tamil OK for thinking aloud; keep key terms in English.\n▶ Related DT Step: Refine Behaviour\n▶ Done when: mini-build-day12.md has (1) outcome (2) interest link (3) one weakness step result."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "4:05 PM – 4:30 PM IST",
+        "Retrospective",
+        "▶ Heading: Final retrospective — plan outcome\n▶ Purpose of this plan: leave stronger on Attitude, Logic/Business, and Technical — applied to \"Learning to design APIs will enable farmers to efficiently interact with the crop health monitoring\".\n▶ 1) OUTCOME: What specific capability can you prove now that you could not on Day 1?\n▶ 2) STRENGTH: Name one way your interest (\"Cricket\") helped you today.\n▶ 3) FEAR / WEAKNESS: Where did you take one tiny step past \"Long lectures\" today? (or what will you try tomorrow?)\n▶ 4) ARTIFACT: Best file/demo from this plan + how it helps \"Learning to design APIs will enable farmers to efficiently interact with the crop health monitoring\".\n▶ 5) CARRY FORWARD: One habit to keep after this plan.\n▶ Solo close: write answers in notes/final-retro.md.\n▶ Done when: all 5 answers are written.\n▶ End of day — write 4 lines: LEARNED / FINISHED / LINKED to uploaded problem / TOMORROW first step"
+      ],
+      [
+        "Week 3 - Tuesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Core Algorithm” / pattern “Trees”) on YOUR project — not a random puzzle.\nProblem: #104 — Maximum Depth of Binary Tree (Easy)\nLink: https://leetcode.com/problems/maximum-depth-of-binary-tree/\nBuilds on Coding Practice #94 — Binary Tree Inorder Traversal\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Scaling Considerations”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one hierarchy in \"Farmers face significant challenges in identifying crop\" (folders/categories) and the first tree op you need.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nCase study\nFor Wednesday Speak & Solve — Week 3\nCase: Define Project Scope [Planning]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Scaling Considerations”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day13.md has case title on line 1 + 3 insights + Apply line."
+      ]
+    ]
+  },
+  "weekly": {
+    "module": "weekly",
+    "title": "Weekly Schedule (from Daily · respects Include toggles)",
+    "rows": [
+      [
+        "Week 1",
+        "Day 1-5",
+        "▶ Image Acquisition: Understanding its role in crop health monitoring\n▶ Problem Identification: Defining the core problem\n▶ Similar Products: Analyzing existing solutions\n▶ My Ideas: Brainstorming potential solutions\n▶ Tech Stack Suggestions: Making early system design decisions",
+        "▶ Defined the problem for Project Build\n▶ Developed tech stack suggestions for the product\n▶ Applied learning from problem identification and similar products to the project",
+        "▶ Placement prep: 60-sec intro line\n▶ Placement prep: One company fact"
+      ],
+      [
+        "Week 2",
+        "5 working days",
+        "▶ Subjects: AI Model · Empathy Map\n▶ System Design: User Journeys & Client-Side Concerns · API Endpoints & Use Cases · State Management & Data Models",
+        "▶ Write a function that sorts the array of image data points based on their pixel brightness values and prints.",
+        "▶ Notes: finish \"AI Model\"\n▶ Project: finish this week's Project Build deliverable\n▶ System Design: notes on User Journeys & Client-Side Concerns · API Endpoints & Use Cases\n▶ Placement: Skill keyword · STAR story practice"
+      ],
+      [
+        "Week 3",
+        "2 working days",
+        "▶ Subjects: Scaling Considerations\n▶ System Design: Client Architecture & Interaction Flows",
+        "▶ Write a function that adds image data to a queue and processes the first image in the queue, simulating.",
+        "▶ Notes: finish \"Scaling Considerations\"\n▶ Project: finish this week's Project Build deliverable\n▶ System Design: notes on Client Architecture & Interaction Fl\n▶ Placement: Introduce yourself (HR) · STAR story practice"
+      ]
+    ]
+  },
+  "homework": {
+    "module": "homework",
+    "title": "Tonight's Homework",
+    "rows": [
+      [
+        "Week 1 - Monday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Introduction & Theory” / pattern “Array”) on YOUR project — not a random puzzle.\nProblem: #26 — Remove Duplicates from Sorted Array (Easy)\nLink: https://leetcode.com/problems/remove-duplicates-from-sorted-array/\nBuilds on Coding Practice #26 — Remove Duplicates from Sorted Array\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one list/field in \"Farmers face significant challenges in identifying crop\" where this search/filter helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nDefine Project Scope (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Outline the objectives and deliverables of the crop health monitoring system.\nWhat to build: Outline the objectives and deliverables of the crop health monitoring system.\nStep 1: Identify key stakeholders\nStep 2: Gather requirements\nStep 3: Document project scope\nDone when: Project scope is approved by stakeholders.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Tuesday Speak & Solve — Week 1\nCase: Impact of Climate Change on Crop Health [Climate Change]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day2.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Tuesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Core Algorithm” / pattern “Linked List”) on YOUR project — not a random puzzle.\nProblem: #21 — Merge Two Sorted Lists (Easy)\nLink: https://leetcode.com/problems/merge-two-sorted-lists/\nBuilds on Coding Practice #141 — Linked List Cycle\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one ordered list in \"Farmers face significant challenges in identifying crop\" (feed/steps) and one insert/delete case.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nCase study\nFor Wednesday Speak & Solve — Week 1\nCase: Using Technology to Combat Food Waste [Food Waste]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day3.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Wednesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Worked Examples” / pattern “Linked List”) on YOUR project — not a random puzzle.\nProblem: #876 — Middle of the Linked List (Easy)\nLink: https://leetcode.com/problems/middle-of-the-linked-list/\nBuilds on Coding Practice #146 — LRU Cache\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one ordered list in \"Farmers face significant challenges in identifying crop\" (feed/steps) and one insert/delete case.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 1 draft — article on \"My Ideas\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Write 8–12 lines with a clear title. Include 1 line on how \"My Ideas\" helps \"Farmers face significant challenges in identifying crop diseases\". Save in notes/linkedin-w1.md. Do not post yet.\nDone when: draft has a title, 8–12 lines, and one takeaway unique to Week 1 tied to your product.\nCase study\nFor Thursday Speak & Solve — Week 1\nCase: The Role of AI in Sustainable Agriculture [AI & Sustainability]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day4.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Thursday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Edge Cases & Variants” / pattern “Graphs”) on YOUR project — not a random puzzle.\nProblem: #417 — Pacific Atlantic Water Flow (Medium)\nLink: https://leetcode.com/problems/pacific-atlantic-water-flow/\nBuilds on Coding Practice #1466 — Reorder Routes to Make All Paths Lead\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Sketch 4 nodes from \"Farmers face significant challenges in identifying crop\" + 1 edge type — 1 sentence on why search helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nDesign API Specifications (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Draft specifications for the RESTful APIs.\nWhat to build: Draft specifications for the RESTful APIs.\nStep 1: Define API endpoints\nStep 2: Specify data formats\nStep 3: Establish authentication methods\nDone when: API specifications are finalized.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Friday Speak & Solve — Week 1\nCase: Develop Data Storage Plan [Technical Planning]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day5.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 1 - Friday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Practice Problems & Review” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #35 — Search Insert Position\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Image Acquisition”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 1 publish — article on \"Tech Stack Suggestions\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Post from notes/linkedin-w1.md (or write fresh 8–12 lines). First line must mention what you are building for \"Farmers face significant challenges in identifying crop diseases\". Leave 1 real comment on a peer post.\nDone when: article is live, URL saved, and you left 1 comment.\nCase study\nFor Monday Speak & Solve — Week 2\nCase: Implement Image Processing Module [Development]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Image Acquisition”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day6.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Monday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Introduction & Theory” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #1046 — Last Stone Weight\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nImplement Image Processing Module (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Begin development of the image processing module.\nWhat to build: Begin development of the image processing module.\nStep 1: Set up development environment\nStep 2: Code image processing algorithms\nStep 3: Test initial implementation\nDone when: Image processing module is functional.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Tuesday Speak & Solve — Week 2\nCase: Finalize AI Model [Model Development]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day7.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Tuesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Core Algorithm” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #347 — Top K Frequent Elements\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nCase study\nFor Wednesday Speak & Solve — Week 2\nCase: Smart Farming: Leveraging Technology for Sustainable Agriculture [Technology & Sustainability]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day8.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Wednesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Worked Examples” / pattern “Dynamic Programming”) on YOUR project — not a random puzzle.\nProblem: #70 — Climbing Stairs (Easy)\nLink: https://leetcode.com/problems/climbing-stairs/\nBuilds on Coding Practice #53 — Maximum Subarray\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one \"best choice\" in \"Farmers face significant challenges in identifying crop\" (cost/score) where remembering past answers helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 2 — outline a 5-slide carousel on \"System Design: AI Model\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Write 5 slide titles + 1 line each in notes/linkedin-w2-carousel.md. Slide 5 = how this helps \"Farmers face significant challenges in identifying crop diseases\".\nDone when: 5 slides are outlined with one takeaway for your product.\nCase study\nFor Thursday Speak & Solve — Week 2\nCase: Challenges in Crop Disease Management [Agricultural Challenges]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day9.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Thursday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Edge Cases & Variants” / pattern “Graph”) on YOUR project — not a random puzzle.\nProblem: #207 — Course Schedule (Medium)\nLink: https://leetcode.com/problems/course-schedule/\nBuilds on Coding Practice #200 — Number of Islands\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Sketch 4 nodes from \"Farmers face significant challenges in identifying crop\" + 1 edge type — 1 sentence on why search helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nFinalize AI Model (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Complete the training and validation of the AI model.\nWhat to build: Complete the training and validation of the AI model.\nStep 1: Train model on dataset\nStep 2: Validate model performance\nStep 3: Document results\nDone when: AI model is ready for deployment.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Friday Speak & Solve — Week 2\nCase: Sustainable Practices in Agriculture [Sustainability]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day10.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 2 - Friday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Practice Problems & Review” / pattern “Stack”) on YOUR project — not a random puzzle.\nProblem: #20 — Valid Parentheses (Easy)\nLink: https://leetcode.com/problems/valid-parentheses/\nBuilds on Coding Practice #295 — Find Median from Data Stream\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “AI Model”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one FIFO/LIFO flow in \"Farmers face significant challenges in identifying crop\" (jobs, alerts, undo) and name it.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nLinkedIn\nWeek 2 — leave 2 thoughtful comments on posts about \"System Design: AI Model\"\nYour problem (in short): Farmers face significant challenges in identifying crop diseases\nTask: Find 2 real posts. Comment with one insight each that could help \"Farmers face significant challenges in identifying crop diseases\" (not \"great post\"). Save links in notes/linkedin-w2-comments.md.\nDone when: 2 comments are live and noted.\nCase study\nFor Monday Speak & Solve — Week 3\nCase: Remote Sensing for Crop Monitoring [Remote Sensing]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “AI Model”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day11.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 3 - Monday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Introduction & Theory” / pattern “Sorting”) on YOUR project — not a random puzzle.\nProblem: #215 — Kth Largest Element in an Array (Medium)\nLink: https://leetcode.com/problems/kth-largest-element-in-an-array/\nBuilds on Coding Practice #215 — Kth Largest Element in an Array\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Scaling Considerations”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one list/field in \"Farmers face significant challenges in identifying crop\" where this search/filter helps.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nAgent Workbench\nDefine Project Scope (Easy)\nProduct glance: Farmers face significant challenges in identifying\nProblem: Outline the objectives and deliverables of the crop health monitoring system.\nWhat to build: Outline the objectives and deliverables of the crop health monitoring system.\nStep 1: Identify key stakeholders\nStep 2: Gather requirements\nStep 3: Document project scope\nDone when: Project scope is approved by stakeholders.\nApply: 1 line — how this agent helps \"Farmers face significant challenges in identifying\".\nCase study\nFor Tuesday Speak & Solve — Week 3\nCase: The Importance of Soil Health in Crop Production [Soil Health]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Scaling Considerations”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day12.md has case title on line 1 + 3 insights + Apply line."
+      ],
+      [
+        "Week 3 - Tuesday",
+        "Tonight",
+        "Tonight's Homework",
+        "Purpose tonight (~45–70 min): practise today's skill, apply it to your goal/role, prep tomorrow's Speak.\nPace: Average pace — Standard night path A→B→C (~45–70 min) tied to career goal.\n▶ Purpose → career: role Data Engineer · company Netflix · domain EdTech · Target 6–8 LPA\n▶ End each task with 1 line linking the work → this goal/role.\nTasks (max 3): coding → side task (if any) → tomorrow's Speak case.\nLeetCode\nPurpose: continue today's class skill (“— Core Algorithm” / pattern “Trees”) on YOUR project — not a random puzzle.\nProblem: #104 — Maximum Depth of Binary Tree (Easy)\nLink: https://leetcode.com/problems/maximum-depth-of-binary-tree/\nBuilds on Coding Practice #94 — Binary Tree Inorder Traversal\nProject: Farmers face significant challenges in identifying crop diseases early, leading to “Scaling Considerations”.\nDo: solve (or log attempt if stuck >25 min).\nApply: Write 2 lines: one hierarchy in \"Farmers face significant challenges in identifying crop\" (folders/categories) and the first tree op you need.\nDone when: Accepted/logged + Apply note names where this pattern fits in the product.\nCase study\nFor Wednesday Speak & Solve — Week 3\nCase: Define Project Scope [Planning]\nYour product (in short): Farmers face significant challenges in identifying crop diseases early, leading to reduced yields and economic losses.\nDo this (easy): Write 1–2 concrete lines linking this task to “Scaling Considerations”.\n  1) Skim the case (5–8 min).\n  2) Write 3 short lines: what happened / why it matters / 1 lesson for YOUR product.\n  3) Apply: name ONE change you will make to \"Farmers face significant challenges in identifying\" (feature, user, or risk).\nTomorrow: In Speak & Solve, say that 1 lesson + the product change (no reading full notes).\nDone when: file homework-case-day13.md has case title on line 1 + 3 insights + Apply line."
+      ]
+    ]
+  },
+  "versions": [],
+  "inputs": {
+    "college": "SNS College of Technology",
+    "department": "CSE",
+    "collegeYear": 2,
+    "semester": 3,
+    "plannerMode": "dsa_dt_playbook",
+    "numDays": 12,
+    "memberName": "Karthi",
+    "memberKey": "karthi22-gmail-com",
+    "problem": "Develop an AI-powered platform to streamline public grievance redressal in government sectors, enhancing response times and citizen satisfaction. The system will utilize natural language processing to categorize complaints, prioritize them based on urgency, and assign them to relevant departments, ensuring efficient resolution. This innovation aims to reduce bureaucratic delays and improve transparency in government operations, making it easier for citizens to voice their concerns and receive timely feedback."
+  }
+}
