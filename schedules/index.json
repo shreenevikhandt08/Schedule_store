@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-08T10:49:18.052Z",
+  "updatedAt": "2026-09-18T06:48:22.614Z",
   "entries": [
     {
       "id": "6a9fbd9d89b25d8112552701",
-      "memberName": "Karthi",
-      "memberKey": "karthi22-gmail-com",
+      "memberName": "shreenevikha",
+      "memberKey": "shree22-gmail-com",
       "department": "cse",
       "year": "2",
       "semester": "3",
       "campus": "sns college of technology",
-      "path": "schedules/cse/karthi/year-2-sem-3.json",
-      "folder": "schedules/cse/karthi",
+      "path": "schedules/cse/shreenevikha/year-2-sem-3.json",
+      "folder": "schedules/cse/shreenevikha",
       "fingerprint": "5f140ace29c993dc1aeed36a8a9c",
       "rowCount": 170,
       "weeklyRowCount": 3,
       "homeworkRowCount": 12,
-      "versionCount": 1,
+      "versionCount": 2,
       "includes": {
         "daily": true,
         "weekly": true,
         "homework": true,
         "versions": true
       },
-      "updatedAt": "2026-09-08T10:49:18.052Z",
-      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/karthi/year-2-sem-3.json"
+      "updatedAt": "2026-09-18T06:48:22.614Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/shreenevikha/year-2-sem-3.json"
     },
     {
       "id": "6a9bf707776da24042d5046b",
