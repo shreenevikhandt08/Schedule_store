@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-19T12:34:19.430Z",
+  "updatedAt": "2026-09-21T06:48:11.523Z",
   "entries": [
     {
       "id": "6aae814b5e8fb7d9fda9d98b",
-      "memberName": "rohitt",
-      "memberKey": "rohit-a-ihub-snsgroups-com",
+      "memberName": "shree",
+      "memberKey": "shreenevikha-n-dt-snsgroups-com",
       "department": "cse",
       "year": "2",
       "semester": "3",
       "campus": "sns college of technology",
-      "path": "schedules/cse/rohitt/year-2-sem-3.json",
-      "folder": "schedules/cse/rohitt",
+      "path": "schedules/cse/shree/year-2-sem-3.json",
+      "folder": "schedules/cse/shree",
       "fingerprint": "ea933b56679d300cd634b7833298",
       "rowCount": 173,
       "weeklyRowCount": 3,
@@ -22,8 +22,8 @@
         "homework": true,
         "versions": true
       },
-      "updatedAt": "2026-09-19T12:34:19.430Z",
-      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/rohitt/year-2-sem-3.json"
+      "updatedAt": "2026-09-21T06:48:11.523Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/shree/year-2-sem-3.json"
     },
     {
       "id": "6a9fbd9d89b25d8112552701",
