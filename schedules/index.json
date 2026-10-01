@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-21T06:48:11.523Z",
+  "updatedAt": "2026-10-01T07:42:22.723Z",
   "entries": [
+    {
+      "id": "6abe0ede5310414667754b4b",
+      "memberName": "Sanjana C",
+      "memberKey": "sanjana-c-iqac-snsgroups-com",
+      "department": "cse",
+      "year": "2",
+      "semester": "3",
+      "campus": "sns college of technology",
+      "path": "schedules/cse/sanjana-c/year-2-sem-3.json",
+      "folder": "schedules/cse/sanjana-c",
+      "fingerprint": "67590fd8b5ab28299f18ebc36a27",
+      "rowCount": 176,
+      "weeklyRowCount": 3,
+      "homeworkRowCount": 12,
+      "versionCount": 2,
+      "includes": {
+        "daily": true,
+        "weekly": true,
+        "homework": true,
+        "versions": true
+      },
+      "updatedAt": "2026-10-01T07:42:22.723Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/sanjana-c/year-2-sem-3.json"
+    },
     {
       "id": "6aae814b5e8fb7d9fda9d98b",
       "memberName": "shree",
