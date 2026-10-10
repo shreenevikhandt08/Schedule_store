@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-10T07:48:51.370Z",
+  "updatedAt": "2026-10-10T11:17:03.431Z",
   "entries": [
     {
       "id": "6ac9ede3ce5d9bcdff8e7ae3",
-      "memberName": "Vikram R",
+      "memberName": "shree",
       "memberKey": "rohit-a-ihub-snsgroups-com",
       "department": "cse",
       "year": "2",
       "semester": "3",
       "campus": "sns college of technology",
-      "path": "schedules/cse/vikram-r/year-2-sem-3.json",
-      "folder": "schedules/cse/vikram-r",
+      "path": "schedules/cse/shree/year-2-sem-3.json",
+      "folder": "schedules/cse/shree",
       "fingerprint": "108ee433400306dcb319c8e163ee",
       "rowCount": 132,
       "weeklyRowCount": 3,
       "homeworkRowCount": 12,
-      "versionCount": 9,
+      "versionCount": 15,
       "includes": {
         "daily": true,
         "weekly": true,
         "homework": true,
         "versions": true
       },
-      "updatedAt": "2026-10-10T07:48:51.370Z",
-      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/vikram-r/year-2-sem-3.json"
+      "updatedAt": "2026-10-10T11:17:03.431Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/shree/year-2-sem-3.json"
     },
     {
       "id": "6ac9c8d050c9f97685fd32d4",
