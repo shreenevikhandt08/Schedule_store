@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-06T06:44:50.922Z",
+  "updatedAt": "2026-10-10T05:10:40.350Z",
   "entries": [
+    {
+      "id": "6ac9c8d050c9f97685fd32d4",
+      "memberName": "Vishmitha RK",
+      "memberKey": "vishmitha-rk-scd-snsgroups-com",
+      "department": "cse",
+      "year": "2",
+      "semester": "3",
+      "campus": "sns college of technology",
+      "path": "schedules/cse/vishmitha-rk/year-2-sem-3.json",
+      "folder": "schedules/cse/vishmitha-rk",
+      "fingerprint": "58b99f0d2079ed594ac8878c31e8",
+      "rowCount": 425,
+      "weeklyRowCount": 6,
+      "homeworkRowCount": 30,
+      "versionCount": 2,
+      "includes": {
+        "daily": true,
+        "weekly": true,
+        "homework": true,
+        "versions": true
+      },
+      "updatedAt": "2026-10-10T05:10:40.350Z",
+      "htmlUrl": "https://github.com/shreenevikhandt08/Schedule_store/blob/main/schedules/cse/vishmitha-rk/year-2-sem-3.json"
+    },
     {
       "id": "6ac498d358276196dd87f0f7",
       "memberName": "shree",
